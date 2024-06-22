@@ -1,0 +1,1206 @@
+.idyllic-palm-tree-coastline-tr-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1233.5px;
+  height: 705.3px;
+  object-fit: cover;
+}
+.h4,
+.l4 {
+  position: relative;
+}
+.l4 {
+  width: 124px;
+  font-size: var(--font-size-178xl-1);
+  display: inline-block;
+  height: 182px;
+  flex-shrink: 0;
+  margin-left: -46.2px;
+}
+.logo-principal4 {
+  position: absolute;
+  top: 136.6px;
+  left: 512.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hemily4,
+.lucas4 {
+  letter-spacing: 0.12em;
+}
+.hemily4 {
+  position: absolute;
+  top: 28.4px;
+  left: 0;
+}
+.lucas4 {
+  top: 25.2px;
+  left: 223.7px;
+}
+.div20,
+.lucas4,
+.nomes4 {
+  position: absolute;
+}
+.div20 {
+  top: 0;
+  left: 160.3px;
+  font-size: var(--font-size-93xl-1);
+  font-family: var(--font-caveat);
+  opacity: 0.25;
+}
+.nomes4 {
+  top: 29px;
+  left: 416px;
+  width: 367.7px;
+  height: 141px;
+  font-size: var(--font-size-53xl-9);
+}
+.idyllic-palm-tree-coastline-tr-container {
+  width: 1233.5px;
+  position: relative;
+  height: 705.3px;
+  display: none;
+  text-align: left;
+  font-size: var(--font-size-190xl);
+  color: var(--color-white);
+  font-family: var(--font-madelyn-fill-trial);
+}
+.dicas-de-viagem5 {
+  width: 783px;
+  position: absolute;
+  margin: 0 !important;
+  top: 88.5px;
+  left: 282.1px;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  display: inline-block;
+  text-shadow: 0.8px 0 0#fff, 0 0.8px 0#fff, -0.8px 0 0#fff, 0-0.8px 0#fff;
+  z-index: 0;
+}
+.dicas-de-viagem-wrapper {
+  align-self: stretch;
+  height: 270.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-10xl) 433.6px;
+  box-sizing: border-box;
+  position: relative;
+  background-image: url(./public/frame-13213172611@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-62xl);
+  color: var(--color-white);
+}
+.aos-que-precisam {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  white-space: pre-wrap;
+  display: inline-block;
+  max-width: 840px;
+}
+.aos-que-precisam-viajar-para-e-wrapper {
+  align-self: stretch;
+  background-color: var(--color);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-21xl) 0;
+  font-size: var(--font-size-11xl-7);
+  color: var(--color-white);
+  font-family: var(--font-photoshoot);
+}
+.o-preo-mdio,
+.passagem {
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+}
+.passagem {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-44xl);
+  color: var(--d9d9d9);
+  text-shadow: 0.2px 0 0#2a4f3d, 0 0.2px 0#2a4f3d, -0.2px 0 0#2a4f3d,
+    0-0.2px 0#2a4f3d;
+}
+.o-preo-mdio {
+  font-family: var(--font-photoshoot);
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.image-19-icon,
+.o-preo-mdio,
+.r-750-at {
+  align-self: stretch;
+  position: relative;
+}
+.r-750-at {
+  font-size: var(--font-size-19xl-2);
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  font-family: var(--font-photoshoot);
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.image-19-icon {
+  flex: 1;
+  border-radius: 23px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-19-wrapper {
+  align-self: stretch;
+  height: 195px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.seu-destino-ser {
+  font-size: var(--font-size-12xl-6);
+}
+.recife {
+  font-size: var(--font-size-27xl);
+}
+.seu-destino-ser-recife {
+  margin: 0;
+}
+.aeroporto-internacional-do {
+  margin: 0;
+  text-transform: lowercase;
+}
+.seu-destino-ser-container {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+}
+.caso-voc-tenha-pontos-em-algu {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-23xl);
+}
+.faa-a-busca {
+  color: var(--color);
+}
+.google-fligth1 {
+  text-decoration: underline;
+}
+.google-fligth {
+  color: inherit;
+}
+.faa-a-busca-container {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  color: var(--d9d9d9);
+}
+.passagem-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) 137px;
+  gap: var(--gap-22xl-2);
+  font-size: var(--font-size-12xl-6);
+}
+.hospedagem,
+.para-hospedagem-nossa {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+}
+.hospedagem {
+  color: var(--d9d9d9);
+  text-align: left;
+  text-shadow: 0.2px 0 0#2a4f3d, 0 0.2px 0#2a4f3d, -0.2px 0 0#2a4f3d,
+    0-0.2px 0#2a4f3d;
+}
+.para-hospedagem-nossa {
+  width: 1193.3px;
+  font-size: var(--font-size-12xl-6);
+  text-transform: lowercase;
+  display: inline-block;
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.image-20-icon {
+  width: 610px;
+  position: relative;
+  border-radius: var(--br-16xl);
+  height: 569px;
+  object-fit: cover;
+}
+.a-praia-de-container,
+.porto-de-galinhas {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.a-praia-de-container {
+  width: 679px;
+  font-size: var(--font-size-12xl-6);
+  text-transform: lowercase;
+  font-family: var(--font-wildy-sans);
+  text-align: left;
+  display: inline-block;
+}
+.image-20-parent,
+.porto-de-galinhas-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.image-20-parent {
+  flex-direction: row;
+  justify-content: center;
+  font-size: var(--font-size-39xl);
+  font-family: var(--font-photoshoot);
+}
+.hospedagem-parent {
+  align-self: stretch;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) 0;
+  gap: var(--gap-22xl-2);
+}
+.image-20-icon1 {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-16xl);
+  max-width: 100%;
+  overflow: hidden;
+  height: 432px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.a-praia-de-container1,
+.porto-de-galinhas1 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.a-praia-de-container1 {
+  font-size: var(--font-size-12xl-6);
+  text-transform: lowercase;
+  font-family: var(--font-wildy-sans);
+}
+.image-20-group,
+.porto-de-galinhas-group {
+  align-self: stretch;
+  display: flex;
+  gap: var(--gap-29xl);
+}
+.porto-de-galinhas-group {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-20-group {
+  font-size: var(--font-size-39xl);
+  font-family: var(--font-photoshoot);
+}
+.dicas-de-viagem-inner,
+.hospedagem-group,
+.image-20-group {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hospedagem-group {
+  align-self: stretch;
+  display: flex;
+  gap: var(--gap-22xl);
+}
+.dicas-de-viagem-inner {
+  width: 520px;
+  background-color: var(--color-white);
+  display: none;
+  padding: var(--padding-21xl) var(--padding-base);
+  box-sizing: border-box;
+  max-width: 520px;
+}
+.aos-que-forem,
+.dica-de-roteiro {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+}
+.dica-de-roteiro {
+  color: var(--d9d9d9);
+  text-shadow: 0.2px 0 0#2a4f3d, 0 0.2px 0#2a4f3d, -0.2px 0 0#2a4f3d,
+    0-0.2px 0#2a4f3d;
+}
+.aos-que-forem {
+  font-size: var(--font-size-12xl-6);
+  text-transform: lowercase;
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.image-20-icon2 {
+  width: 447.5px;
+  position: relative;
+  border-radius: 25.68px;
+  height: 417.4px;
+  object-fit: cover;
+}
+.a-vila-de {
+  width: 679px;
+  position: relative;
+  font-size: var(--font-size-12xl-6);
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-transform: lowercase;
+  font-family: var(--font-wildy-sans);
+  display: inline-block;
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.vila-porto-de-galinhas-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.conhecer {
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  color: inherit;
+  text-shadow: 0.2px 0 0#fff, 0 0.2px 0#fff, -0.2px 0 0#fff, 0-0.2px 0#fff;
+}
+.conhecer-wrapper {
+  width: 200.6px;
+  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
+  border-radius: 4.92px;
+  background-color: var(--color);
+  height: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs-1);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl-2);
+  color: var(--color-white);
+  font-family: var(--font-wildy-sans);
+}
+.frame-parent55,
+.image-20-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.image-20-container {
+  align-self: stretch;
+}
+.marco-zero-e {
+  width: 733px;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  display: inline-block;
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.cs-do-serto-parent,
+.frame-parent57 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-29xl);
+}
+.cs-do-serto-parent {
+  justify-content: flex-start;
+  font-family: var(--font-photoshoot);
+}
+.entrada-r-10-container {
+  width: 679px;
+  position: relative;
+  font-size: var(--font-size-12xl-6);
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-transform: lowercase;
+  display: inline-block;
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.conhecer-wrapper1 {
+  width: 200.6px;
+  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
+  border-radius: 4.92px;
+  background-color: var(--color);
+  height: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs-1);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl-2);
+  color: var(--color-white);
+}
+.image-20-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+  font-family: var(--font-wildy-sans);
+}
+.instituto-ricardo-brennand-container {
+  width: 662px;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  display: inline-block;
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.frame-parent60,
+.instituto-ricardo-brennand-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instituto-ricardo-brennand-parent {
+  gap: var(--gap-29xl);
+}
+.frame-parent60 {
+  gap: 27px;
+}
+.dica-de-roteiro-parent,
+.frame-parent54 {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent54 {
+  height: 939px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 148px;
+  font-size: var(--font-size-39xl);
+  font-family: var(--font-photoshoot);
+}
+.dica-de-roteiro-parent {
+  background-color: #eee;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-21xl) 120px;
+  gap: var(--gap-22xl-2);
+}
+.oua-nossa-playlist-container4 {
+  width: 75px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.vector-icon4 {
+  width: 168.6px;
+  position: relative;
+  height: 42.2px;
+}
+.div21,
+.div22 {
+  position: absolute;
+  top: 11.1px;
+  left: 0;
+  display: inline-block;
+  width: 6.5px;
+}
+.div22 {
+  left: 126.3px;
+}
+.group-child5 {
+  position: absolute;
+  top: 9.3px;
+  left: 129.5px;
+  width: 126.3px;
+  height: 0;
+  object-fit: contain;
+}
+.group-child6 {
+  position: absolute;
+  top: 7.6px;
+  left: 15px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 3.5px;
+  height: 3.5px;
+}
+.div23,
+.hemylu4 {
+  width: 66.4px;
+  position: relative;
+  display: inline-block;
+}
+.div23 {
+  font-size: var(--font-size-10xs-6);
+  font-weight: 300;
+}
+.hemylu-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xs-7);
+}
+.heart-streamline-core-1-icon4 {
+  width: 3.5px;
+  position: relative;
+  height: 3.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent62 {
+  position: absolute;
+  top: 0;
+  left: 3.3px;
+  width: 126.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-42xl-2);
+  text-align: left;
+  font-size: var(--font-size-9xs-5);
+  font-family: var(--font-petrona);
+}
+.triangle-arrow-transfer-vertic-icon4 {
+  width: 3.9px;
+  position: relative;
+  height: 3.9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.button-previous-streamline-co-icon8 {
+  width: 3px;
+  position: relative;
+  height: 3px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button-play-circle-streamline-icon4,
+.button-previous-streamline-co-icon9 {
+  width: 5.2px;
+  position: relative;
+  height: 5.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button-previous-streamline-co-icon9 {
+  width: 3px;
+  height: 3px;
+  object-fit: contain;
+}
+.button-previous-streamline-co-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs-7);
+}
+.triangle-arrow-reload-vertical-icon4 {
+  width: 4.1px;
+  position: relative;
+  height: 4.1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.triangle-arrow-transfer-vertic-parent2 {
+  position: absolute;
+  top: 13.9px;
+  left: 39.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-smi-4);
+}
+.parent19 {
+  width: 132.8px;
+  position: relative;
+  height: 19.1px;
+}
+.vector-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-10xs-9);
+  font-family: var(--font-inter);
+}
+.oua-nossa-playlist-no-spotify-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-lgi);
+}
+.como-acessar-a-container4 {
+  width: 38.4px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-child17 {
+  width: 0;
+  position: relative;
+  height: 27.9px;
+  object-fit: contain;
+}
+.b16 {
+  width: 63.4px;
+  position: relative;
+  display: inline-block;
+}
+.parent20,
+.parent21 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.parent21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 63.4px;
+  height: 28.5px;
+}
+.image-11-icon4 {
+  position: absolute;
+  top: 10.2px;
+  left: 63.4px;
+  border-radius: 4.93px;
+  width: 18.7px;
+  height: 18.3px;
+  object-fit: cover;
+}
+.frame-parent65 {
+  width: 82px;
+  position: relative;
+  height: 28.5px;
+}
+.frame-parent64 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.image-12-icon4 {
+  position: absolute;
+  top: 9.5px;
+  left: 66.5px;
+  border-radius: 4.93px;
+  width: 18.7px;
+  height: 19px;
+  object-fit: cover;
+}
+.frame-parent66 {
+  width: 85.2px;
+  position: relative;
+  height: 28.5px;
+}
+.aponte-a-camera-container4 {
+  width: 86.6px;
+  position: relative;
+  display: inline-block;
+}
+.frame-parent63,
+.group-parent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-4);
+}
+.frame-parent63 {
+  width: 187.1px;
+  flex-direction: row;
+  gap: var(--gap-2xs-1);
+}
+.como-acessar-a-playlist-parent2,
+.frame-wrapper9 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame-wrapper9 {
+  width: 189px;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xs-4);
+  box-sizing: border-box;
+  font-size: var(--font-size-4xs-4);
+}
+.como-acessar-a-playlist-parent2 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-5xs-2);
+  text-align: left;
+  font-size: var(--font-size-3xs-1);
+}
+.dicas-de-viagem-child,
+.frame-parent61 {
+  flex-direction: column;
+  align-items: center;
+}
+.frame-parent61 {
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+  gap: var(--gap-lg-9);
+}
+.dicas-de-viagem-child {
+  width: 520px;
+  background: linear-gradient(85.38deg, #2a4f3d, #02676a);
+  display: none;
+  justify-content: flex-start;
+  padding: var(--padding-4xl) 0;
+  box-sizing: border-box;
+  max-width: 520px;
+  text-align: right;
+  font-size: var(--font-size-smi-3);
+  color: var(--color-white);
+  font-family: var(--font-petrona);
+}
+.group-icon6 {
+  width: 135.8px;
+  position: relative;
+  height: 135.9px;
+}
+.isto-importante4,
+.no-se-esquea4 {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+}
+.no-se-esquea4 {
+  text-shadow: 0.2px 0 0#2a4f3d, 0 0.2px 0#2a4f3d, -0.2px 0 0#2a4f3d,
+    0-0.2px 0#2a4f3d;
+}
+.isto-importante4 {
+  font-size: var(--font-size-mid-6);
+}
+.no-se-esquea-de-confirmar-su-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs-1);
+}
+.confirmar-presena4 {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  color: inherit;
+  text-decoration: none;
+  text-shadow: 0.2px 0 0#fff, 0 0.2px 0#fff, -0.2px 0 0#fff, 0-0.2px 0#fff;
+}
+.confirmar-presena-wrapper2 {
+  width: 200.6px;
+  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
+  border-radius: 4.92px;
+  background-color: var(--color);
+  height: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs-1);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-xl-2);
+  color: var(--color-white);
+}
+.frame-parent67 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.dicas-de-viagem-inner1,
+.group-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.group-parent8 {
+  justify-content: flex-start;
+  gap: var(--gap-37xl-5);
+}
+.dicas-de-viagem-inner1 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  height: 202.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: center;
+  padding: var(--padding-5xs-6);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--d9d9d9);
+}
+.isto-importante5,
+.no-se-esquea5 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+}
+.no-se-esquea5 {
+  text-shadow: 0.2px 0 0#2a4f3d, 0 0.2px 0#2a4f3d, -0.2px 0 0#2a4f3d,
+    0-0.2px 0#2a4f3d;
+}
+.isto-importante5 {
+  font-size: var(--font-size-mid-6);
+}
+.no-se-esquea-de-confirmar-su-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs-1);
+}
+.frame-parent68 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-smi);
+}
+.dicas-de-viagem-inner2,
+.frame-parent68,
+.group-parent9 {
+  align-items: center;
+  justify-content: center;
+}
+.group-parent9 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-37xl-5);
+}
+.dicas-de-viagem-inner2 {
+  width: 520px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: none;
+  flex-direction: row;
+  padding: var(--padding-13xl) var(--padding-5xs-6);
+  box-sizing: border-box;
+  max-width: 520px;
+  font-size: var(--font-size-8xl);
+  color: var(--d9d9d9);
+}
+.areia-icon2,
+.mar-icon2 {
+  position: absolute;
+  top: 0;
+  left: 1022.7px;
+  width: 887.7px;
+  height: 1023.2px;
+  object-fit: contain;
+}
+.areia-icon2 {
+  top: 936.7px;
+  left: 947.1px;
+  width: 208.8px;
+  height: 233.8px;
+  display: none;
+}
+.areia-icon3,
+.mar-icon3 {
+  position: absolute;
+  top: 552.5px;
+  left: 0;
+  width: 685.6px;
+  height: 376.8px;
+  object-fit: cover;
+}
+.mar-icon3 {
+  top: 1135.3px;
+  left: 952.9px;
+  width: 265.7px;
+  height: 295.5px;
+  object-fit: contain;
+}
+.mar-group {
+  position: absolute;
+  top: -550.6px;
+  left: -243.7px;
+  width: 1910.4px;
+  height: 1430.8px;
+}
+.home-icon2 {
+  align-self: stretch;
+  position: relative;
+  border-radius: 7.82px 7.82px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 89.3px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.home2,
+.roteiro-horrios-local4 {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+}
+.home2 {
+  text-shadow: 0.3px 0 0#02676a, 0 0.3px 0#02676a, -0.3px 0 0#02676a,
+    0-0.3px 0#02676a;
+}
+.roteiro-horrios-local4 {
+  width: 279.5px;
+  font-size: var(--font-size-mini);
+  color: var(--d9d9d9);
+  display: inline-block;
+}
+.frame-parent69,
+.home-parent2 {
+  display: flex;
+  align-items: center;
+}
+.home-parent2 {
+  width: 316px;
+  box-shadow: 1.3px 2px 4.37px rgba(0, 0, 0, 0.08);
+  border-radius: 7.82px;
+  background-color: var(--color-white);
+  height: 211.1px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-5xs-8);
+  cursor: pointer;
+}
+.frame-parent69 {
+  position: absolute;
+  top: 84.7px;
+  left: 213px;
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-13xl-6);
+}
+.group-parent10 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  height: 380.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-13xl);
+}
+.sobre-o-casamento-container {
+  display: flex;
+  padding: 0 var(--padding-6xs-5);
+  gap: var(--gap-base-6);
+}
+.dicas-de-viagem-inner3,
+.frame-parent70,
+.sobre-o-casamento-container {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent70 {
+  display: flex;
+  gap: var(--gap-13xl-6);
+}
+.dicas-de-viagem-inner3 {
+  width: 520px;
+  display: none;
+  padding: var(--padding-9xl) var(--padding-3xs);
+  box-sizing: border-box;
+  background-image: url(./public/frame-1321317385@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-13xl);
+}
+.firefly-praia-vista-de-cima-a2 {
+  position: absolute;
+  top: 289.7px;
+  left: -355px;
+  width: 706px;
+  height: 907.8px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  display: none;
+}
+.group-child7 {
+  position: absolute;
+  top: 9.3px;
+  left: 3.3px;
+  max-height: 100%;
+  width: 126.3px;
+  object-fit: contain;
+}
+.group-parent11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-4);
+}
+.frame-wrapper10 {
+  width: 475.5px;
+  padding: 0 0 0 var(--padding-2xs-4);
+  box-sizing: border-box;
+  font-size: var(--font-size-4xs-4);
+}
+.como-acessar-a-playlist-parent3,
+.frame-wrapper10,
+.oua-nossa-playlist-no-spotify-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.como-acessar-a-playlist-parent3 {
+  width: 415.7px;
+  gap: var(--gap-5xs-2);
+  text-align: left;
+  font-size: var(--font-size-3xs-1);
+}
+.oua-nossa-playlist-no-spotify-parent3 {
+  position: absolute;
+  top: 9.1px;
+  left: calc(50% - 322.7px);
+  width: 671.1px;
+  gap: var(--gap-lg-9);
+}
+.tag-spotfy2 {
+  flex: 1;
+  position: relative;
+  background: linear-gradient(85.38deg, #2a4f3d, #02676a);
+  height: 117.3px;
+  overflow: hidden;
+}
+.tag-spotfy-frame {
+  align-self: stretch;
+  height: 77.5px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dicas-de-viagem-inner4,
+.dicas-de-viagem4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dicas-de-viagem-inner4 {
+  align-self: stretch;
+  text-align: right;
+  font-size: var(--font-size-smi-3);
+  color: var(--color-white);
+  font-family: var(--font-petrona);
+}
+.dicas-de-viagem4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-44xl);
+  color: var(--color);
+  font-family: var(--font-wildy-sans);
+}
+@media screen and (max-width: 520px) {
+  .aos-que-precisam {
+    font-size: var(--font-size-5xl);
+  }
+  .passagem-parent {
+    display: flex;
+    padding-left: var(--padding-base);
+    padding-right: var(--padding-base);
+    box-sizing: border-box;
+  }
+  .hospedagem-parent {
+    display: none;
+  }
+  .dicas-de-viagem-inner {
+    display: flex;
+  }
+  .dica-de-roteiro-parent,
+  .dicas-de-viagem-inner {
+    padding-left: var(--padding-base);
+    padding-right: var(--padding-base);
+    box-sizing: border-box;
+  }
+  .dicas-de-viagem-child {
+    display: flex;
+  }
+  .dicas-de-viagem-inner1 {
+    display: none;
+  }
+  .dicas-de-viagem-inner2 {
+    display: flex;
+  }
+  .group-parent10 {
+    display: none;
+  }
+  .frame-parent70 {
+    flex-direction: column;
+  }
+  .dicas-de-viagem-inner3 {
+    display: flex;
+    align-self: stretch;
+    width: auto;
+  }
+  .dicas-de-viagem-inner4 {
+    display: none;
+  }
+}
