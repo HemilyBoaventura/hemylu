@@ -40,12 +40,12 @@
   top: 25.2px;
   left: 223.7px;
 }
-.div13,
+.div10,
 .lucas3,
 .nomes3 {
   position: absolute;
 }
-.div13 {
+.div10 {
   top: 0;
   left: 160.3px;
   font-size: var(--font-size-93xl-1);
@@ -68,7 +68,7 @@
   color: var(--color-white);
   font-family: var(--font-madelyn-fill-trial);
 }
-.sobre-o-casamento3 {
+.sobre-o-casamento2 {
   align-self: stretch;
   position: relative;
   letter-spacing: 0.12em;
@@ -81,7 +81,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 49px var(--padding-base);
+  padding: var(--padding-49xl) var(--padding-base);
   background-image: url(./public/frame-1321317379@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
@@ -173,18 +173,18 @@
   height: 17.1px;
   flex-shrink: 0;
 }
-.frame-parent19,
-.frame-parent20 {
+.frame-parent10,
+.frame-parent11 {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
   gap: var(--gap-2xs-7);
 }
-.frame-parent19 {
+.frame-parent10 {
   gap: var(--gap-sm-7);
 }
-.frame-child4 {
+.frame-child1 {
   width: 29.9px;
   position: relative;
   max-height: 100%;
@@ -233,7 +233,7 @@
   line-height: 156%;
   font-family: var(--font-petrona);
 }
-.frame-parent18 {
+.frame-parent9 {
   width: 1334.8px;
   overflow-x: auto;
   display: flex;
@@ -256,27 +256,27 @@
   box-sizing: border-box;
   gap: var(--gap-22xl-2);
 }
-.frame-child8 {
+.frame-child5 {
   width: 29.9px;
   position: relative;
   height: 0;
   flex-shrink: 0;
 }
-.frame-parent27,
-.frame-wrapper4 {
+.frame-parent18,
+.frame-wrapper2 {
   position: absolute;
   top: 0;
   left: 0;
   width: 1334.8px;
 }
-.frame-parent27 {
+.frame-parent18 {
   overflow-x: auto;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
 }
-.frame-wrapper4 {
+.frame-wrapper2 {
   height: 178.1px;
 }
 .mobile-inner {
@@ -322,7 +322,7 @@
   line-height: 91.95%;
 }
 .no-ser-permitido-bebidas-alc-parent {
-  width: 892px;
+  align-self: stretch;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -350,29 +350,13 @@
   padding-left: var(--padding-6xl);
 }
 .roupas-de-banho-container {
-  width: 538.1px;
+  align-self: stretch;
   position: relative;
   font-size: var(--font-size-lgi);
   letter-spacing: 0.12em;
   font-family: var(--font-wildy-sans);
-  display: inline-block;
 }
-.o-que-levar-parent {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-3xl-9);
-}
-.alimentao-repelentes-chapus-container {
-  width: 611.4px;
-  position: relative;
-  font-size: var(--font-size-lgi);
-  letter-spacing: 0.12em;
-  font-family: var(--font-wildy-sans);
-  display: inline-block;
-}
+.o-que-levar-parent,
 .oque-ser-disponibilizado-parent {
   flex: 1;
   display: flex;
@@ -380,26 +364,28 @@
   align-items: flex-start;
   justify-content: flex-start;
   gap: var(--gap-3xl-9);
+}
+.oque-ser-disponibilizado-parent {
   font-family: var(--font-photoshoot);
 }
-.frame-parent36,
+.frame-parent27,
 .orientaes-gerais-parent {
+  align-self: stretch;
   display: flex;
   justify-content: flex-start;
   gap: var(--gap-22xl-2);
 }
-.frame-parent36 {
-  width: 611.4px;
+.frame-parent27 {
   flex-direction: row;
   align-items: flex-start;
+  padding: 0 240px;
   font-size: var(--font-size-5xl-4);
 }
 .orientaes-gerais-parent {
-  align-self: stretch;
   height: 587px;
   flex-direction: column;
   align-items: center;
-  padding: var(--padding-19xl-9) 0 0;
+  padding: var(--padding-13xl) var(--padding-118xl);
   box-sizing: border-box;
   font-size: var(--font-size-36xl);
   color: var(--color);
@@ -449,20 +435,21 @@
   align-items: flex-start;
   font-family: var(--font-photoshoot);
 }
-.frame-parent37,
+.frame-parent28,
 .orientaes-gerais-group {
-  display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
   gap: var(--gap-22xl-2);
 }
-.frame-parent37 {
+.frame-parent28 {
   align-self: stretch;
+  display: flex;
   font-size: var(--font-size-5xl-4);
 }
 .orientaes-gerais-group {
-  width: 100%;
+  width: 520px;
+  display: none;
   padding: var(--padding-21xl) var(--padding-base);
   box-sizing: border-box;
   max-width: 520px;
@@ -471,7 +458,7 @@
   color: var(--color);
   font-family: var(--font-dancing-script);
 }
-.frame-child12 {
+.rectangle-icon {
   width: 408.4px;
   position: relative;
   border-radius: 18.91px;
@@ -488,7 +475,7 @@
 }
 .barra-de-sirinham {
   width: 372.5px;
-  font-size: var(--font-size-15xl-7);
+  font-size: 34.7px;
   font-family: var(--font-wildy-sans);
 }
 .quinta-da-barra-parent {
@@ -496,7 +483,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: var(--gap-10xs-2);
+  gap: 2.2px;
   font-size: var(--font-size-39xl-9);
   font-family: var(--font-photoshoot);
 }
@@ -520,14 +507,14 @@
   color: inherit;
   display: inline-block;
 }
-.frame-parent38,
+.frame-parent29,
 .rua-projetada-08-lot-recreio-frame {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.frame-parent38 {
+.frame-parent29 {
   flex-direction: row;
   align-items: center;
   gap: var(--gap-sm-9);
@@ -535,14 +522,14 @@
   color: var(--color);
 }
 .local-do-evento-parent,
-.rectangle-container {
+.rectangle-parent {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
   gap: var(--gap-22xl-2);
 }
-.rectangle-container {
+.rectangle-parent {
   flex-direction: row;
   justify-content: center;
 }
@@ -555,12 +542,21 @@
   align-items: center;
   justify-content: center;
 }
+.barra-de-sirinham1 {
+  width: 372.5px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.12em;
+  line-height: 86.09%;
+  font-family: var(--font-wildy-sans);
+  display: inline-block;
+}
 .quinta-da-barra-group {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   justify-content: flex-start;
-  gap: var(--gap-10xs-2);
+  gap: 16px;
   text-align: center;
   font-size: var(--font-size-39xl-9);
   font-family: var(--font-photoshoot);
@@ -579,13 +575,13 @@
   align-items: center;
   justify-content: flex-start;
 }
-.frame-parent39,
+.frame-parent30,
 .local-do-evento-group {
   align-self: stretch;
   display: flex;
   align-items: center;
 }
-.frame-parent39 {
+.frame-parent30 {
   flex-direction: row;
   justify-content: center;
   gap: var(--gap-sm-9);
@@ -598,7 +594,7 @@
   padding: 0 var(--padding-base);
   gap: var(--gap-22xl-2);
 }
-.rectangle-parent1 {
+.rectangle-group {
   width: 520px;
   background-color: var(--color-whitesmoke-100);
   display: none;
@@ -646,24 +642,25 @@
   justify-content: center;
   padding: var(--padding-8xs-1);
   box-sizing: border-box;
+  cursor: pointer;
   text-align: center;
   font-size: var(--font-size-xl-2);
   color: var(--color-white);
 }
-.frame-parent40 {
+.frame-parent31 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
   gap: var(--gap-smi);
 }
-.group-parent2,
+.group-container,
 .sobre-o-casamento-child {
   display: flex;
   flex-direction: row;
   align-items: center;
 }
-.group-parent2 {
+.group-container {
   justify-content: flex-start;
   gap: var(--gap-37xl-5);
 }
@@ -712,21 +709,22 @@
   justify-content: center;
   padding: var(--padding-8xs-1);
   box-sizing: border-box;
+  cursor: pointer;
   font-size: var(--font-size-xl-2);
   color: var(--color-white);
 }
-.frame-parent41,
-.group-parent3 {
+.frame-parent32,
+.group-parent1 {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
-.frame-parent41 {
+.frame-parent32 {
   align-self: stretch;
   gap: var(--gap-smi);
 }
-.group-parent3 {
+.group-parent1 {
   flex: 1;
   gap: var(--gap-37xl-5);
 }
@@ -738,52 +736,13 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-13xl) var(--padding-5xs-6);
+  padding: var(--padding-13xl) var(--padding-base);
   box-sizing: border-box;
   max-width: 520px;
   text-align: center;
   font-size: var(--font-size-8xl);
 }
-.areia-icon,
-.mar-icon {
-  position: absolute;
-  top: 0;
-  left: 1022.7px;
-  width: 887.7px;
-  height: 1023.2px;
-  object-fit: contain;
-}
-.areia-icon {
-  top: 936.7px;
-  left: 947.1px;
-  width: 208.8px;
-  height: 233.8px;
-  display: none;
-}
-.areia-icon1,
-.mar-icon1 {
-  position: absolute;
-  top: 552.5px;
-  left: 0;
-  width: 685.6px;
-  height: 376.8px;
-  object-fit: cover;
-}
-.mar-icon1 {
-  top: 1135.3px;
-  left: 952.9px;
-  width: 265.7px;
-  height: 295.5px;
-  object-fit: contain;
-}
-.mar-parent {
-  position: absolute;
-  top: -550.6px;
-  left: -243.7px;
-  width: 1910.4px;
-  height: 1430.8px;
-}
-.home-icon {
+.home2-icon2 {
   align-self: stretch;
   position: relative;
   border-radius: 7.82px 7.82px 0 0;
@@ -793,13 +752,13 @@
   flex-shrink: 0;
   object-fit: cover;
 }
-.home,
+.home1,
 .roteiro-horrios-local2 {
   position: relative;
   letter-spacing: 0.12em;
   line-height: 113.81%;
 }
-.home {
+.home1 {
   text-shadow: 0.3px 0 0#02676a, 0 0.3px 0#02676a, -0.3px 0 0#02676a,
     0-0.3px 0#02676a;
 }
@@ -809,66 +768,39 @@
   color: var(--d9d9d9);
   display: inline-block;
 }
-.home-group {
+.home-group,
+.home2-container {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.home-group {
   justify-content: center;
   padding: 0 var(--padding-6xs-5);
   gap: var(--gap-base-6);
 }
-.home-parent {
-  cursor: pointer;
-}
-.home-parent,
-.presentes-container {
+.home2-container {
   width: 316px;
   box-shadow: 1.3px 2px 4.37px rgba(0, 0, 0, 0.08);
   border-radius: 7.82px;
   background-color: var(--color-white);
   height: 211.1px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: flex-start;
   gap: var(--gap-5xs-8);
+  cursor: pointer;
 }
-.frame-parent42 {
-  position: absolute;
-  top: 84.7px;
-  left: 213px;
+.frame-parent33 {
+  align-self: stretch;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   gap: var(--gap-13xl-6);
 }
-.group-parent4 {
+.sobre-o-casamento-inner2 {
   align-self: stretch;
-  position: relative;
-  background-color: var(--color-gainsboro-100);
-  height: 380.5px;
-  overflow: hidden;
-  flex-shrink: 0;
-  text-align: center;
-  font-size: var(--font-size-13xl);
-  color: var(--color);
-}
-.frame-parent43,
-.sobre-o-casamento-inner2 {
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-.frame-parent43 {
   display: flex;
-  gap: var(--gap-13xl-6);
-}
-.sobre-o-casamento-inner2 {
-  width: 520px;
-  display: none;
   padding: var(--padding-9xl) var(--padding-3xs);
-  box-sizing: border-box;
   background-image: url(./public/frame-13213173751@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
@@ -877,39 +809,53 @@
   font-size: var(--font-size-13xl);
   color: var(--color);
 }
-.firefly-praia-vista-de-cima-a1 {
-  position: absolute;
-  top: 289.7px;
-  left: -355px;
-  width: 706px;
-  height: 907.8px;
-  transform: rotate(-90deg);
-  transform-origin: 0 0;
-  display: none;
+.frame-parent34,
+.sobre-o-casamento-inner2,
+.sobre-o-casamento-inner3 {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
-.oua-nossa-playlist-container2 {
+.frame-parent34 {
+  display: flex;
+  gap: var(--gap-13xl-6);
+}
+.sobre-o-casamento-inner3 {
+  width: 520px;
+  display: none;
+  padding: var(--padding-9xl) var(--padding-3xs);
+  box-sizing: border-box;
+  background-image: url(./public/frame-13213173841@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color);
+}
+.oua-nossa-playlist-container1 {
   width: 75px;
   position: relative;
   display: inline-block;
   flex-shrink: 0;
 }
-.vector-icon2 {
+.vector-icon1 {
   width: 168.6px;
   position: relative;
   height: 42.2px;
 }
-.div14,
-.div15 {
+.div11,
+.div12 {
   position: absolute;
   top: 11.1px;
   left: 0;
   display: inline-block;
   width: 6.5px;
 }
-.div15 {
+.div12 {
   left: 126.3px;
 }
-.group-child1 {
+.group-inner {
   position: absolute;
   top: 9.3px;
   left: 3.3px;
@@ -917,7 +863,7 @@
   width: 126.3px;
   object-fit: contain;
 }
-.group-child2 {
+.ellipse-div {
   position: absolute;
   top: 7.6px;
   left: 15px;
@@ -926,31 +872,31 @@
   width: 3.5px;
   height: 3.5px;
 }
-.div16,
-.hemylu2 {
+.div13,
+.hemylu1 {
   width: 66.4px;
   position: relative;
   display: inline-block;
 }
-.div16 {
+.div13 {
   font-size: var(--font-size-10xs-6);
   font-weight: 300;
 }
-.hemylu-container {
+.hemylu-group {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
   gap: var(--gap-12xs-7);
 }
-.heart-streamline-core-1-icon2 {
+.heart-streamline-core-1-icon1 {
   width: 3.5px;
   position: relative;
   height: 3.5px;
   overflow: hidden;
   flex-shrink: 0;
 }
-.frame-parent44 {
+.frame-parent35 {
   position: absolute;
   top: 0;
   left: 3.3px;
@@ -964,7 +910,7 @@
   font-size: var(--font-size-9xs-5);
   font-family: var(--font-petrona);
 }
-.triangle-arrow-transfer-vertic-icon2 {
+.triangle-arrow-transfer-vertic-icon1 {
   width: 3.9px;
   position: relative;
   height: 3.9px;
@@ -972,34 +918,34 @@
   flex-shrink: 0;
   object-fit: contain;
 }
-.button-previous-streamline-co-icon4 {
+.button-previous-streamline-co-icon2 {
   width: 3px;
   position: relative;
   height: 3px;
   overflow: hidden;
   flex-shrink: 0;
 }
-.button-play-circle-streamline-icon2,
-.button-previous-streamline-co-icon5 {
+.button-play-circle-streamline-icon1,
+.button-previous-streamline-co-icon3 {
   width: 5.2px;
   position: relative;
   height: 5.2px;
   overflow: hidden;
   flex-shrink: 0;
 }
-.button-previous-streamline-co-icon5 {
+.button-previous-streamline-co-icon3 {
   width: 3px;
   height: 3px;
   object-fit: contain;
 }
-.button-previous-streamline-co-container {
+.button-previous-streamline-co-group {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
   gap: var(--gap-9xs-7);
 }
-.triangle-arrow-reload-vertical-icon2 {
+.triangle-arrow-reload-vertical-icon1 {
   width: 4.1px;
   position: relative;
   height: 4.1px;
@@ -1007,7 +953,7 @@
   flex-shrink: 0;
   object-fit: contain;
 }
-.triangle-arrow-transfer-vertic-container {
+.triangle-arrow-transfer-vertic-group {
   position: absolute;
   top: 13.9px;
   left: 39.1px;
@@ -1017,12 +963,12 @@
   justify-content: center;
   gap: var(--gap-smi-4);
 }
-.parent9 {
+.group {
   width: 132.8px;
   position: relative;
   height: 19.1px;
 }
-.vector-container {
+.vector-group {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1031,218 +977,47 @@
   font-size: var(--font-size-10xs-9);
   font-family: var(--font-inter);
 }
-.como-acessar-a-container2 {
-  width: 38.4px;
-  position: relative;
-  display: inline-block;
-  flex-shrink: 0;
-}
-.frame-child15 {
-  width: 0;
-  position: relative;
-  height: 27.9px;
-  object-fit: contain;
-}
-.b8 {
-  width: 63.4px;
-  position: relative;
-  display: inline-block;
-}
-.parent11 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 63.4px;
-  height: 28.5px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-.image-11-icon2 {
-  position: absolute;
-  top: 10.2px;
-  left: 63.4px;
-  border-radius: 4.93px;
-  width: 18.7px;
-  height: 18.3px;
-  object-fit: cover;
-}
-.frame-parent46 {
-  width: 82px;
-  position: relative;
-  height: 28.5px;
-}
-.image-12-icon2 {
-  position: absolute;
-  top: 9.5px;
-  left: 66.5px;
-  border-radius: 4.93px;
-  width: 18.7px;
-  height: 19px;
-  object-fit: cover;
-}
-.frame-parent47 {
-  width: 85.2px;
-  position: relative;
-  height: 28.5px;
-}
-.aponte-a-camera-container2 {
-  width: 86.6px;
-  position: relative;
-  display: inline-block;
-}
-.frame-parent45,
-.group-parent5 {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-base-4);
-}
-.frame-parent45 {
-  width: 187.1px;
-  gap: var(--gap-2xs-1);
-}
-.frame-wrapper7 {
-  width: 475.5px;
-  padding: 0 0 0 var(--padding-2xs-4);
-  box-sizing: border-box;
-  font-size: var(--font-size-4xs-4);
-}
-.como-acessar-a-playlist-container,
-.frame-wrapper7,
-.oua-nossa-playlist-no-spotify-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-start;
-}
-.como-acessar-a-playlist-container {
-  width: 415.7px;
-  gap: var(--gap-5xs-2);
-  text-align: left;
-  font-size: var(--font-size-3xs-1);
-}
-.oua-nossa-playlist-no-spotify-container {
-  position: absolute;
-  top: 9.1px;
-  left: calc(50% - 322.7px);
-  width: 671.1px;
-  gap: var(--gap-lg-9);
-}
-.tag-spotfy1 {
-  flex: 1;
-  position: relative;
-  background: linear-gradient(85.38deg, #2a4f3d, #02676a);
-  height: 117.3px;
-  overflow: hidden;
-}
-.sobre-o-casamento-inner3,
-.tag-spotfy-container {
+.oua-nossa-playlist-no-spotify-group {
   align-self: stretch;
+  background: linear-gradient(85.38deg, #2a4f3d, #02676a);
   display: flex;
-  justify-content: flex-start;
-}
-.tag-spotfy-container {
-  height: 77.5px;
   flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
-}
-.sobre-o-casamento-inner3 {
-  flex-direction: column;
   align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) 0;
+  gap: var(--gap-lg-9);
   text-align: right;
   font-size: var(--font-size-smi-3);
   color: var(--color-white);
   font-family: var(--font-petrona);
 }
-.group-child3 {
-  position: absolute;
-  top: 9.3px;
-  left: 129.5px;
-  width: 126.3px;
-  height: 0;
-  object-fit: contain;
-}
-.oua-nossa-playlist-no-spotify-parent1 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  gap: var(--gap-lgi);
-}
-.frame-parent51 {
-  flex-direction: column;
-  align-items: flex-start;
-  gap: var(--gap-3xs);
-}
-.frame-parent51,
-.frame-wrapper8,
-.group-parent6 {
-  display: flex;
-  justify-content: flex-start;
-}
-.group-parent6 {
-  flex-direction: column;
-  align-items: flex-start;
-  gap: var(--gap-base-4);
-}
-.frame-wrapper8 {
-  width: 189px;
-  flex-direction: row;
-  align-items: center;
-  padding: 0 0 0 var(--padding-2xs-4);
-  box-sizing: border-box;
-  font-size: var(--font-size-4xs-4);
-}
-.como-acessar-a-playlist-parent1,
-.frame-parent48 {
-  align-self: stretch;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.como-acessar-a-playlist-parent1 {
-  flex-direction: row;
-  gap: var(--gap-5xs-2);
-  text-align: left;
-  font-size: var(--font-size-3xs-1);
-}
-.frame-parent48 {
-  flex-direction: column;
-  gap: var(--gap-lg-9);
-}
-.sobre-o-casamento-inner4,
-.sobre-o-casamento2 {
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-}
-.sobre-o-casamento-inner4 {
-  width: 520px;
-  background: linear-gradient(85.38deg, #2a4f3d, #02676a);
-  display: none;
-  padding: var(--padding-4xl) 0;
-  box-sizing: border-box;
-  max-width: 520px;
-  text-align: right;
-  font-size: var(--font-size-smi-3);
-  color: var(--color-white);
-  font-family: var(--font-petrona);
-}
-.sobre-o-casamento2 {
+.sobre-o-casamento1 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);
   overflow: hidden;
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
   text-align: left;
   font-size: var(--font-size-16xl-9);
   color: var(--d9d9d9);
   font-family: var(--font-wildy-sans);
+}
+@media screen and (max-width: 1200px) {
+  .orientaes-gerais-parent {
+    padding-left: var(--padding-61xl);
+    padding-right: var(--padding-61xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .orientaes-gerais-parent {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
 }
 @media screen and (max-width: 520px) {
   .a-ideia-do-container {
@@ -1254,6 +1029,16 @@
   .mobile {
     display: flex;
   }
+  .no-ser-permitido-bebidas-alc-parent {
+    align-self: stretch;
+    width: auto;
+  }
+  .frame-parent27,
+  .orientaes-gerais-parent {
+    padding-left: var(--padding-base);
+    padding-right: var(--padding-base);
+    box-sizing: border-box;
+  }
   .orientaes-gerais-parent {
     display: none;
   }
@@ -1264,7 +1049,10 @@
     display: none;
   }
   .rua-projetada-083 {
-    font-size: 18px;
+    font-size: var(--font-size-lg);
+  }
+  .rectangle-group {
+    display: flex;
   }
   .sobre-o-casamento-child {
     display: none;
@@ -1272,21 +1060,20 @@
   .sobre-o-casamento-inner1 {
     display: flex;
   }
-  .group-parent4 {
-    display: none;
-  }
-  .frame-parent43 {
+  .frame-parent33 {
     flex-direction: column;
   }
   .sobre-o-casamento-inner2 {
-    display: flex;
+    display: none;
     align-self: stretch;
     width: auto;
   }
-  .sobre-o-casamento-inner3 {
-    display: none;
+  .frame-parent34 {
+    flex-direction: column;
   }
-  .sobre-o-casamento-inner4 {
+  .sobre-o-casamento-inner3 {
     display: flex;
+    align-self: stretch;
+    width: auto;
   }
 }
