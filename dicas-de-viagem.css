@@ -33,7 +33,7 @@
 }
 .hemily4 {
   position: absolute;
-  top: 28.4px;
+  top: 28.5px;
   left: 0;
 }
 .lucas4 {
@@ -264,7 +264,7 @@
 .image-20-parent {
   flex-direction: row;
   justify-content: center;
-  font-size: var(--font-size-39xl);
+  font-size: 58px;
   font-family: var(--font-photoshoot);
 }
 .hospedagem-parent {
@@ -378,10 +378,10 @@
 .roteiro-1-icon {
   align-self: stretch;
   position: relative;
-  border-radius: 25.68px;
+  border-radius: 20.98px;
   max-width: 100%;
   overflow: hidden;
-  height: 417px;
+  height: 340.8px;
   flex-shrink: 0;
   object-fit: cover;
 }
@@ -395,7 +395,7 @@
     0-0.2px 0#02676a;
 }
 .a-vila-de {
-  font-size: var(--font-size-12xl-6);
+  font-size: var(--font-size-6xl-9);
   text-transform: lowercase;
   font-family: var(--font-wildy-sans);
 }
@@ -406,7 +406,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  gap: var(--gap-29xl);
+  gap: var(--gap-20xl-2);
 }
 .conhecer {
   position: relative;
@@ -416,43 +416,37 @@
   color: inherit;
   text-shadow: 0.2px 0 0#fff, 0 0.2px 0#fff, -0.2px 0 0#fff, 0-0.2px 0#fff;
 }
-.conhecer-wrapper {
-  width: 200.6px;
-  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
-  border-radius: 4.92px;
-  background-color: var(--color);
-  height: 39px;
+.conhecer-wrapper,
+.roteiro-1-parent {
   display: flex;
-  flex-direction: row;
   align-items: center;
-  justify-content: center;
-  padding: var(--padding-8xs-1);
   box-sizing: border-box;
-  font-size: var(--font-size-xl-2);
+}
+.conhecer-wrapper {
+  width: 163.9px;
+  box-shadow: 0 1.3px 1.34px rgba(0, 0, 0, 0.25);
+  border-radius: 4.02px;
+  background-color: var(--color);
+  height: 31.8px;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-9xs-4);
+  font-size: var(--font-size-base-5);
   color: var(--color-white);
   font-family: var(--font-wildy-sans);
 }
-.frame-parent37,
 .roteiro-1-parent {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  gap: var(--gap-29xl);
-}
-.frame-parent37 {
-  align-self: stretch;
-}
-.roteiro-1-parent {
-  width: 520px;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: var(--br-15xl);
+  width: 425px;
+  box-shadow: 0 3.3px 3.27px rgba(0, 0, 0, 0.25);
+  border-radius: 27.79px;
   background-color: var(--color-white);
-  height: 1025px;
+  height: 837.7px;
   flex-shrink: 0;
-  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
-  box-sizing: border-box;
-  max-width: 520px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-3xs-8) var(--padding-3xs-8) var(--padding-lgi-6);
+  gap: var(--gap-20xl-2);
+  max-width: 424.99px;
 }
 .ao-lado-do,
 .cs-do-serto {
@@ -464,192 +458,67 @@
     0-0.2px 0#02676a;
 }
 .cs-do-serto {
-  font-size: var(--font-size-39xl);
+  font-size: var(--font-size-28xl-4);
   font-family: var(--font-photoshoot);
 }
 .ao-lado-do {
   text-transform: lowercase;
 }
 .conhecer-wrapper1 {
-  width: 200.6px;
-  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
-  border-radius: 4.92px;
+  width: 163.9px;
+  box-shadow: 0 1.3px 1.34px rgba(0, 0, 0, 0.25);
+  border-radius: 4.02px;
   background-color: var(--color);
-  height: 39px;
+  height: 31.8px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-8xs-1);
+  padding: var(--padding-9xs-4);
   box-sizing: border-box;
-  font-size: var(--font-size-xl-2);
+  font-size: var(--font-size-base-5);
   color: var(--color-white);
 }
 .desktop,
-.frame-parent36,
+.frame-parent44,
 .roteiro-4-parent {
   display: flex;
   align-items: center;
   justify-content: flex-start;
 }
 .roteiro-4-parent {
-  width: 520px;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: var(--br-15xl);
+  width: 425px;
+  box-shadow: 0 3.3px 3.27px rgba(0, 0, 0, 0.25);
+  border-radius: 27.79px;
   background-color: var(--color-white);
-  height: 1025px;
+  height: 837.7px;
   flex-shrink: 0;
   flex-direction: column;
-  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
+  padding: var(--padding-3xs-8) var(--padding-3xs-8) var(--padding-lgi-6);
   box-sizing: border-box;
-  gap: var(--gap-29xl);
-  max-width: 520px;
-  font-size: var(--font-size-12xl-6);
+  gap: var(--gap-20xl-2);
+  max-width: 424.99px;
+  font-size: var(--font-size-6xl-9);
   font-family: var(--font-wildy-sans);
 }
 .desktop,
-.frame-parent36 {
+.frame-parent44 {
   align-self: stretch;
 }
 .desktop {
   overflow-x: auto;
   flex-direction: row;
-  padding: 0 var(--padding-base);
-  gap: var(--gap-12xl);
-  font-size: var(--font-size-39xl);
+  padding: 0 13.1px;
+  gap: 25.3px;
+  font-size: var(--font-size-28xl-4);
   color: var(--color);
   font-family: var(--font-photoshoot);
 }
-.frame-parent36 {
+.frame-parent44 {
   background-color: var(--color-whitesmoke-200);
   flex-direction: column;
   padding: var(--padding-21xl) 0;
   gap: var(--gap-22xl-2);
-  color: var(--d9d9d9);
-}
-.aos-que-forem1 {
-  align-self: stretch;
-  position: relative;
-  font-size: 28px;
-  letter-spacing: 0.12em;
-  line-height: 113.81%;
-  text-transform: lowercase;
-  color: var(--color);
-  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
-    0-0.2px 0#02676a;
-}
-.dica-de-roteiro-group {
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  padding: 0 var(--padding-base);
-  gap: var(--gap-22xl);
-}
-.a-vila-de1 {
-  align-self: stretch;
-  position: relative;
-  font-size: var(--font-size-5xl);
-  letter-spacing: 0.12em;
-  line-height: 113.81%;
-  text-transform: lowercase;
-  font-family: var(--font-wildy-sans);
-  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
-    0-0.2px 0#02676a;
-}
-.roteiro-1-group {
-  align-self: stretch;
-  width: 420px;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: var(--br-15xl);
-  background-color: var(--color-white);
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
-  box-sizing: border-box;
-  gap: var(--gap-29xl);
-  max-width: 420px;
-}
-.cs-do-serto1 {
-  align-self: stretch;
-  position: relative;
-  font-size: var(--font-size-13xl);
-  letter-spacing: 0.12em;
-  line-height: 113.81%;
-  font-family: var(--font-photoshoot);
-  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
-    0-0.2px 0#02676a;
-}
-.cs-do-serto-group {
-  align-self: stretch;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 30px;
-}
-.roteiro-4-group {
-  width: 420px;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: var(--br-15xl);
-  background-color: var(--color-white);
-  flex-shrink: 0;
-  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
-  box-sizing: border-box;
-  gap: var(--gap-29xl);
-  max-width: 420px;
-  font-size: var(--font-size-5xl);
-  font-family: var(--font-wildy-sans);
-}
-.instituto-ricardo-brennand-group,
-.para-quem-gosta-de-histria-v-parent,
-.roteiro-4-group {
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-}
-.para-quem-gosta-de-histria-v-parent {
-  gap: 12px;
-  font-size: var(--font-size-5xl);
-  font-family: var(--font-wildy-sans);
-}
-.instituto-ricardo-brennand-group {
-  gap: 9px;
-}
-.frame-parent42,
-.mobile1 {
-  align-items: center;
-  justify-content: flex-start;
-  box-sizing: border-box;
-}
-.mobile1 {
-  align-self: stretch;
-  height: 841px;
-  overflow-x: auto;
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: row;
-  padding: 0 var(--padding-base);
-  gap: var(--gap-12xl);
-  font-size: var(--font-size-13xl);
-  color: var(--color);
-  font-family: var(--font-photoshoot);
-}
-.frame-parent42 {
-  width: 520px;
-  background-color: var(--color-whitesmoke-200);
-  display: none;
-  flex-direction: column;
-  padding: var(--padding-21xl) 0;
-  gap: var(--gap-22xl-2);
-  max-width: 520px;
   color: var(--d9d9d9);
 }
 .group-icon6 {
@@ -702,15 +571,15 @@
   font-size: var(--font-size-xl-2);
   color: var(--color-white);
 }
-.frame-parent48 {
+.frame-parent50 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
   gap: var(--gap-smi);
 }
-.dicas-de-viagem-child,
-.group-parent2 {
+.group-parent2,
+.presena-desk2 {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -719,7 +588,7 @@
   justify-content: flex-start;
   gap: var(--gap-37xl-5);
 }
-.dicas-de-viagem-child {
+.presena-desk2 {
   align-self: stretch;
   background-color: var(--color-white);
   height: 202.3px;
@@ -763,15 +632,15 @@
   font-size: var(--font-size-xl-2);
   color: var(--color-white);
 }
-.frame-parent49 {
+.frame-parent51 {
   align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: var(--gap-smi);
 }
-.dicas-de-viagem-inner1,
-.frame-parent49,
-.group-parent3 {
+.frame-parent51,
+.group-parent3,
+.presena-mobile2 {
   align-items: center;
   justify-content: center;
 }
@@ -779,9 +648,10 @@
   flex: 1;
   display: flex;
   flex-direction: column;
+  padding: 0 var(--padding-base);
   gap: var(--gap-37xl-5);
 }
-.dicas-de-viagem-inner1 {
+.presena-mobile2 {
   width: 520px;
   background-color: var(--color-white);
   overflow: hidden;
@@ -793,7 +663,7 @@
   font-size: var(--font-size-8xl);
   color: var(--d9d9d9);
 }
-.home2-icon6 {
+.home-icon {
   align-self: stretch;
   position: relative;
   border-radius: 7.82px 7.82px 0 0;
@@ -803,13 +673,13 @@
   flex-shrink: 0;
   object-fit: cover;
 }
-.home3,
+.home2,
 .roteiro-horrios-local4 {
   position: relative;
   letter-spacing: 0.12em;
   line-height: 113.81%;
 }
-.home3 {
+.home2 {
   text-shadow: 0.3px 0 0#02676a, 0 0.3px 0#02676a, -0.3px 0 0#02676a,
     0-0.3px 0#02676a;
 }
@@ -819,31 +689,18 @@
   color: var(--d9d9d9);
   display: inline-block;
 }
-.frame-parent50 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  gap: var(--gap-13xl-6);
-}
-.dicas-de-viagem-inner2,
-.presentes2-group {
+.cardhome2,
+.home-container {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.dicas-de-viagem-inner2 {
-  align-self: stretch;
+.home-container {
   justify-content: center;
-  padding: var(--padding-9xl) var(--padding-3xs);
-  background-image: url(./public/frame-13213173752@3x.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top;
-  font-size: var(--font-size-13xl);
+  padding: 0 var(--padding-6xs-5);
+  gap: var(--gap-base-6);
 }
-.presentes2-group {
+.cardhome2 {
   width: 316px;
   box-shadow: 1.3px 2px 4.37px rgba(0, 0, 0, 0.08);
   border-radius: 7.82px;
@@ -853,43 +710,97 @@
   gap: var(--gap-5xs-8);
   cursor: pointer;
 }
-.sobre-o-casamento-group {
-  display: flex;
-  padding: 0 var(--padding-6xs-5);
-  gap: var(--gap-base-6);
+.lista-de-presentes4 {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  color: inherit;
+  text-decoration: none;
+  text-shadow: 0.3px 0 0#02676a, 0 0.3px 0#02676a, -0.3px 0 0#02676a,
+    0-0.3px 0#02676a;
 }
-.dicas-de-viagem-inner3,
-.frame-parent51,
-.sobre-o-casamento-group {
-  flex-direction: column;
+.frame-132s1311237343 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-}
-.frame-parent51 {
-  display: flex;
   gap: var(--gap-13xl-6);
 }
-.dicas-de-viagem-inner3 {
-  width: 520px;
-  display: none;
+.card-desk32 {
+  align-self: stretch;
+  display: flex;
   padding: var(--padding-9xl) var(--padding-3xs);
-  box-sizing: border-box;
-  background-image: url(./public/frame-1321317385@3x.png);
+  background-image: url(./public/carddesk2@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
   font-size: var(--font-size-13xl);
 }
-.oua-nossa-playlist-container2 {
-  width: 75px;
-  position: relative;
-  display: inline-block;
-  flex-shrink: 0;
+.card-desk32,
+.card-mobile42,
+.frame-sdsd {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
-.vector-icon2 {
+.frame-sdsd {
+  display: flex;
+  gap: var(--gap-13xl-6);
+}
+.card-mobile42 {
+  width: 520px;
+  display: none;
+  padding: var(--padding-9xl) var(--padding-3xs);
+  box-sizing: border-box;
+  background-image: url(./public/cardmobile2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-13xl);
+}
+.s-icon2 {
   width: 168.6px;
   position: relative;
   height: 42.2px;
+  display: none;
+}
+.vector-icon2 {
+  width: 25.3px;
+  position: relative;
+  height: 25.3px;
+}
+.oua-nossa-playlist-container2 {
+  align-self: stretch;
+  position: relative;
+}
+.vector-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.confira2 {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  color: inherit;
+  text-decoration: none;
+}
+.confira-frame {
+  width: 132px;
+  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
+  border-radius: 4.92px;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs-1);
+  box-sizing: border-box;
+  cursor: pointer;
 }
 .div15,
 .div16 {
@@ -943,7 +854,7 @@
   overflow: hidden;
   flex-shrink: 0;
 }
-.frame-parent52 {
+.frame-parent53 {
   position: absolute;
   top: 0;
   left: 3.3px;
@@ -1014,29 +925,220 @@
   width: 132.8px;
   position: relative;
   height: 19.1px;
+  font-size: var(--font-size-10xs-9);
+  color: var(--color-white);
+  font-family: var(--font-inter);
 }
-.vector-container {
+.frame-parent52 {
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-sm);
+  color: var(--color);
+  font-family: var(--font-wildy-sans);
+}
+.frame-parent52,
+.spotfy-mobile2,
+.spotfy2 {
+  display: flex;
+  align-items: center;
+}
+.spotfy-mobile2 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.spotfy2 {
+  align-self: stretch;
+  background: linear-gradient(85.38deg, #2a4f3d, #02676a);
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-base);
+  font-size: var(--font-size-smi-3);
+  color: var(--color-white);
+  font-family: var(--font-petrona);
+}
+.aos-que-forem1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 28px;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-transform: lowercase;
+  color: var(--color);
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.dica-de-roteiro-group {
+  align-self: stretch;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  text-align: center;
-  font-size: var(--font-size-10xs-9);
-  font-family: var(--font-inter);
+  padding: 0 var(--padding-base);
+  gap: var(--gap-22xl);
 }
-.oua-nossa-playlist-no-spotify-container {
+.a-vila-de1,
+.roteiro-1-icon1 {
   align-self: stretch;
-  background: linear-gradient(85.38deg, #2a4f3d, #02676a);
+  position: relative;
+}
+.roteiro-1-icon1 {
+  border-radius: 25.68px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 417px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.a-vila-de1 {
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-transform: lowercase;
+  font-family: var(--font-wildy-sans);
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.vila-porto-de-galinhas-group {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.conhecer-wrapper3,
+.roteiro-1-group {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.conhecer-wrapper3 {
+  width: 200.6px;
+  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
+  border-radius: 4.92px;
+  background-color: var(--color);
+  height: 39px;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-8xs-1);
+  font-size: var(--font-size-xl-2);
+  color: var(--color-white);
+  font-family: var(--font-wildy-sans);
+}
+.roteiro-1-group {
+  align-self: stretch;
+  width: 420px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-white);
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
+  gap: var(--gap-29xl);
+  max-width: 420px;
+}
+.cs-do-serto1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  font-family: var(--font-photoshoot);
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.cs-do-serto-group {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.conhecer-wrapper6 {
+  width: 200.6px;
+  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
+  border-radius: 4.92px;
+  background-color: var(--color);
+  height: 39px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: var(--padding-xs) 0;
-  gap: var(--gap-lg-9);
-  text-align: right;
-  font-size: var(--font-size-smi-3);
+  padding: var(--padding-8xs-1);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl-2);
   color: var(--color-white);
-  font-family: var(--font-petrona);
+}
+.para-quem-gosta-de-histria-v-parent,
+.roteiro-4-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-wildy-sans);
+}
+.roteiro-4-group {
+  width: 420px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-white);
+  flex-shrink: 0;
+  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
+  box-sizing: border-box;
+  gap: var(--gap-29xl);
+  max-width: 420px;
+}
+.para-quem-gosta-de-histria-v-parent {
+  gap: var(--gap-xs);
+}
+.instituto-ricardo-brennand-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-4xs);
+}
+.dicas-de-viagem4,
+.frame-parent54,
+.instituto-ricardo-brennand-group,
+.mobile1 {
+  align-items: center;
+  justify-content: flex-start;
+}
+.mobile1 {
+  align-self: stretch;
+  height: 841px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  box-sizing: border-box;
+  gap: 31px;
+  font-size: var(--font-size-13xl);
+  color: var(--color);
+  font-family: var(--font-photoshoot);
+}
+.dicas-de-viagem4,
+.frame-parent54 {
+  flex-direction: column;
+}
+.frame-parent54 {
+  width: 520px;
+  background-color: var(--color-whitesmoke-200);
+  display: none;
+  padding: var(--padding-21xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-22xl-2);
+  max-width: 520px;
+  color: var(--d9d9d9);
 }
 .dicas-de-viagem4 {
   width: 100%;
@@ -1044,9 +1146,6 @@
   background-color: var(--color-white);
   overflow: hidden;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
   text-align: center;
   font-size: var(--font-size-44xl);
   color: var(--color);
@@ -1092,42 +1191,48 @@
   .hospedagem-parent {
     display: none;
   }
-  .dicas-de-viagem-inner {
-    display: flex;
-  }
   .dicas-de-viagem-inner,
-  .frame-parent36,
-  .frame-parent42 {
+  .frame-parent44 {
     padding-left: var(--padding-base);
     padding-right: var(--padding-base);
     box-sizing: border-box;
   }
-  .frame-parent36 {
-    display: none;
-  }
-  .frame-parent42 {
+  .dicas-de-viagem-inner {
     display: flex;
   }
-  .dicas-de-viagem-child {
+  .frame-parent44 {
     display: none;
   }
-  .dicas-de-viagem-inner1 {
+  .presena-desk2 {
+    display: none;
+  }
+  .group-parent3,
+  .presena-mobile2 {
     display: flex;
   }
-  .frame-parent50 {
+  .frame-132s1311237343 {
     flex-direction: column;
   }
-  .dicas-de-viagem-inner2 {
+  .card-desk32 {
     display: none;
     align-self: stretch;
     width: auto;
   }
-  .frame-parent51 {
+  .frame-sdsd {
     flex-direction: column;
   }
-  .dicas-de-viagem-inner3 {
+  .card-mobile42 {
     display: flex;
     align-self: stretch;
     width: auto;
+  }
+  .spotfy-mobile2 {
+    display: flex;
+  }
+  .frame-parent54 {
+    display: flex;
+    padding-left: var(--padding-base);
+    padding-right: var(--padding-base);
+    box-sizing: border-box;
   }
 }

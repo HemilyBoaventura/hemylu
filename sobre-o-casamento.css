@@ -33,7 +33,7 @@
 }
 .hemily3 {
   position: absolute;
-  top: 28.4px;
+  top: 28.5px;
   left: 0;
 }
 .lucas3 {
@@ -64,11 +64,12 @@
   position: relative;
   height: 705.3px;
   display: none;
+  text-align: left;
   font-size: var(--font-size-190xl);
   color: var(--color-white);
   font-family: var(--font-madelyn-fill-trial);
 }
-.sobre-o-casamento2 {
+.sobre-o-casamento3 {
   align-self: stretch;
   position: relative;
   letter-spacing: 0.12em;
@@ -86,7 +87,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  text-align: center;
   font-size: var(--font-size-62xl);
   color: var(--color-white);
 }
@@ -119,15 +119,18 @@
   align-items: center;
   justify-content: center;
   padding: var(--padding-21xl) 0;
-  text-align: center;
   font-size: var(--font-size-11xl-7);
   color: var(--color-white);
   font-family: var(--font-photoshoot);
 }
 .roteiro-do-evento {
   position: relative;
+  font-size: var(--font-size-16xl-9);
   letter-spacing: 0.12em;
   line-height: 113.81%;
+  font-family: var(--font-wildy-sans);
+  color: var(--d9d9d9);
+  text-align: left;
   text-shadow: 0.2px 0 0#2a4f3d, 0 0.2px 0#2a4f3d, -0.2px 0 0#2a4f3d,
     0-0.2px 0#2a4f3d;
 }
@@ -240,21 +243,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  text-align: center;
-  font-size: var(--font-size-19xl-2);
-  color: var(--color);
-  font-family: var(--font-photoshoot);
-}
-.roteiro-do-evento-parent {
-  align-self: stretch;
-  height: 344px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  padding: var(--padding-19xl-9) 0 0;
+  padding: 0 var(--padding-base);
   box-sizing: border-box;
-  gap: var(--gap-22xl-2);
 }
 .frame-child5 {
   width: 29.9px;
@@ -262,21 +252,54 @@
   height: 0;
   flex-shrink: 0;
 }
-.frame-parent18,
+.frame-parent18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-base);
+  box-sizing: border-box;
+}
 .frame-wrapper2 {
+  width: 520px;
+  position: relative;
+  height: 178.1px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  display: none;
+  max-width: 520px;
+}
+.roteiro-do-evento-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-23xl) 0;
+  gap: var(--gap-22xl-2);
+  font-size: var(--font-size-19xl-2);
+  font-family: var(--font-photoshoot);
+}
+.frame-parent27,
+.group-div {
   position: absolute;
   top: 0;
   left: 0;
   width: 1334.8px;
 }
-.frame-parent18 {
+.frame-parent27 {
   overflow-x: auto;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
 }
-.frame-wrapper2 {
+.group-div {
   height: 178.1px;
 }
 .mobile-inner {
@@ -296,9 +319,11 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  padding: var(--padding-19xl-9) 0 0;
+  padding: 38.9px 0 0;
   box-sizing: border-box;
   gap: var(--gap-22xl-2);
+  text-align: left;
+  color: var(--d9d9d9);
 }
 .orientaes-gerais {
   position: relative;
@@ -368,27 +393,25 @@
 .oque-ser-disponibilizado-parent {
   font-family: var(--font-photoshoot);
 }
-.frame-parent27,
+.frame-parent36,
 .orientaes-gerais-parent {
   align-self: stretch;
   display: flex;
   justify-content: flex-start;
   gap: var(--gap-22xl-2);
 }
-.frame-parent27 {
+.frame-parent36 {
   flex-direction: row;
   align-items: flex-start;
   padding: 0 240px;
   font-size: var(--font-size-5xl-4);
 }
 .orientaes-gerais-parent {
-  height: 587px;
   flex-direction: column;
   align-items: center;
   padding: var(--padding-13xl) var(--padding-118xl);
-  box-sizing: border-box;
+  text-align: left;
   font-size: var(--font-size-36xl);
-  color: var(--color);
   font-family: var(--font-dancing-script);
 }
 .no-ser-permitido-container1,
@@ -435,14 +458,14 @@
   align-items: flex-start;
   font-family: var(--font-photoshoot);
 }
-.frame-parent28,
+.frame-parent37,
 .orientaes-gerais-group {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
   gap: var(--gap-22xl-2);
 }
-.frame-parent28 {
+.frame-parent37 {
   align-self: stretch;
   display: flex;
   font-size: var(--font-size-5xl-4);
@@ -453,9 +476,7 @@
   padding: var(--padding-21xl) var(--padding-base);
   box-sizing: border-box;
   max-width: 520px;
-  text-align: center;
   font-size: var(--font-size-36xl);
-  color: var(--color);
   font-family: var(--font-dancing-script);
 }
 .rectangle-icon {
@@ -464,6 +485,13 @@
   border-radius: 18.91px;
   height: 260.3px;
   object-fit: cover;
+}
+.local-do-evento {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-shadow: 0.2px 0 0#2a4f3d, 0 0.2px 0#2a4f3d, -0.2px 0 0#2a4f3d,
+    0-0.2px 0#2a4f3d;
 }
 .barra-de-sirinham,
 .quinta-da-barra {
@@ -507,14 +535,14 @@
   color: inherit;
   display: inline-block;
 }
-.frame-parent29,
+.frame-parent38,
 .rua-projetada-08-lot-recreio-frame {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.frame-parent29 {
+.frame-parent38 {
   flex-direction: row;
   align-items: center;
   gap: var(--gap-sm-9);
@@ -536,73 +564,13 @@
 .sobre-o-casamento-inner {
   align-self: stretch;
   background-color: var(--color-whitesmoke-100);
-  height: 353.4px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
-.barra-de-sirinham1 {
-  width: 372.5px;
-  position: relative;
-  font-size: var(--font-size-5xl);
-  letter-spacing: 0.12em;
-  line-height: 86.09%;
-  font-family: var(--font-wildy-sans);
-  display: inline-block;
-}
-.quinta-da-barra-group {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 16px;
-  text-align: center;
-  font-size: var(--font-size-39xl-9);
-  font-family: var(--font-photoshoot);
-}
-.rua-projetada-083 {
-  align-self: stretch;
-  position: relative;
-  text-decoration: underline;
-  letter-spacing: 0.12em;
-  color: inherit;
-}
-.rua-projetada-08-lot-recreio-wrapper1 {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-}
-.frame-parent30,
-.local-do-evento-group {
-  align-self: stretch;
-  display: flex;
-  align-items: center;
-}
-.frame-parent30 {
-  flex-direction: row;
-  justify-content: center;
-  gap: var(--gap-sm-9);
-  font-size: var(--font-size-5xl);
-  color: var(--color);
-}
-.local-do-evento-group {
-  flex-direction: column;
-  justify-content: flex-start;
-  padding: 0 var(--padding-base);
-  gap: var(--gap-22xl-2);
-}
-.rectangle-group {
-  width: 520px;
-  background-color: var(--color-whitesmoke-100);
-  display: none;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: var(--gap-5xs-6);
-  max-width: 520px;
+  padding: var(--padding-13xl) 0;
+  text-align: left;
+  color: var(--d9d9d9);
 }
 .group-icon4 {
   width: 135.8px;
@@ -647,7 +615,7 @@
   font-size: var(--font-size-xl-2);
   color: var(--color-white);
 }
-.frame-parent31 {
+.frame-parent39 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -655,7 +623,7 @@
   gap: var(--gap-smi);
 }
 .group-container,
-.sobre-o-casamento-child {
+.presena-desk1 {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -664,7 +632,7 @@
   justify-content: flex-start;
   gap: var(--gap-37xl-5);
 }
-.sobre-o-casamento-child {
+.presena-desk1 {
   align-self: stretch;
   background-color: var(--color-white);
   height: 202.3px;
@@ -673,7 +641,9 @@
   justify-content: center;
   padding: var(--padding-5xs-6);
   box-sizing: border-box;
+  text-align: left;
   font-size: var(--font-size-8xl);
+  color: var(--d9d9d9);
 }
 .isto-importante3,
 .no-se-esquea3 {
@@ -713,36 +683,38 @@
   font-size: var(--font-size-xl-2);
   color: var(--color-white);
 }
-.frame-parent32,
-.group-parent1 {
+.frame-parent40 {
+  align-self: stretch;
   display: flex;
   flex-direction: column;
+  gap: var(--gap-smi);
+}
+.frame-parent40,
+.group-parent1,
+.presena-mobile1 {
   align-items: center;
   justify-content: center;
 }
-.frame-parent32 {
-  align-self: stretch;
-  gap: var(--gap-smi);
-}
 .group-parent1 {
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-base);
   gap: var(--gap-37xl-5);
 }
-.sobre-o-casamento-inner1 {
+.presena-mobile1 {
   width: 520px;
   background-color: var(--color-white);
   overflow: hidden;
   display: none;
   flex-direction: row;
-  align-items: center;
-  justify-content: center;
   padding: var(--padding-13xl) var(--padding-base);
   box-sizing: border-box;
   max-width: 520px;
-  text-align: center;
   font-size: var(--font-size-8xl);
+  color: var(--d9d9d9);
 }
-.home2-icon2 {
+.home4-icon {
   align-self: stretch;
   position: relative;
   border-radius: 7.82px 7.82px 0 0;
@@ -752,13 +724,13 @@
   flex-shrink: 0;
   object-fit: cover;
 }
-.home1,
+.home,
 .roteiro-horrios-local2 {
   position: relative;
   letter-spacing: 0.12em;
   line-height: 113.81%;
 }
-.home1 {
+.home {
   text-shadow: 0.3px 0 0#02676a, 0 0.3px 0#02676a, -0.3px 0 0#02676a,
     0-0.3px 0#02676a;
 }
@@ -768,18 +740,18 @@
   color: var(--d9d9d9);
   display: inline-block;
 }
-.home-group,
-.home2-container {
+.cardhome,
+.home-parent {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.home-group {
+.home-parent {
   justify-content: center;
   padding: 0 var(--padding-6xs-5);
   gap: var(--gap-base-6);
 }
-.home2-container {
+.cardhome {
   width: 316px;
   box-shadow: 1.3px 2px 4.37px rgba(0, 0, 0, 0.08);
   border-radius: 7.82px;
@@ -789,60 +761,98 @@
   gap: var(--gap-5xs-8);
   cursor: pointer;
 }
-.frame-parent33 {
+.lista-de-presentes2 {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  color: inherit;
+  text-decoration: none;
+  text-shadow: 0.3px 0 0#02676a, 0 0.3px 0#02676a, -0.3px 0 0#02676a,
+    0-0.3px 0#02676a;
+}
+.card-desk1,
+.cardhome-parent {
   align-self: stretch;
   display: flex;
+}
+.cardhome-parent {
   flex-direction: row;
   align-items: center;
   justify-content: center;
   gap: var(--gap-13xl-6);
 }
-.sobre-o-casamento-inner2 {
-  align-self: stretch;
-  display: flex;
+.card-desk1 {
   padding: var(--padding-9xl) var(--padding-3xs);
-  background-image: url(./public/frame-13213173751@3x.png);
+  background-image: url(./public/carddesk1@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  text-align: center;
   font-size: var(--font-size-13xl);
-  color: var(--color);
 }
-.frame-parent34,
-.sobre-o-casamento-inner2,
-.sobre-o-casamento-inner3 {
+.card-desk1,
+.card-mobile2,
+.frame-13213asda17343 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
-.frame-parent34 {
+.frame-13213asda17343 {
   display: flex;
   gap: var(--gap-13xl-6);
 }
-.sobre-o-casamento-inner3 {
+.card-mobile2 {
   width: 520px;
   display: none;
   padding: var(--padding-9xl) var(--padding-3xs);
   box-sizing: border-box;
-  background-image: url(./public/frame-13213173841@3x.png);
+  background-image: url(./public/cardmobile1@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  text-align: center;
   font-size: var(--font-size-13xl);
-  color: var(--color);
 }
-.oua-nossa-playlist-container1 {
-  width: 75px;
-  position: relative;
-  display: inline-block;
-  flex-shrink: 0;
-}
-.vector-icon1 {
+.s-icon1 {
   width: 168.6px;
   position: relative;
   height: 42.2px;
+  display: none;
+}
+.vector-icon1 {
+  width: 25.3px;
+  position: relative;
+  height: 25.3px;
+}
+.oua-nossa-playlist-container1 {
+  align-self: stretch;
+  position: relative;
+}
+.vector-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.confira1 {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  color: inherit;
+  text-decoration: none;
+}
+.confira-container {
+  width: 132px;
+  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
+  border-radius: 4.92px;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs-1);
+  box-sizing: border-box;
+  cursor: pointer;
 }
 .div11,
 .div12 {
@@ -896,7 +906,7 @@
   overflow: hidden;
   flex-shrink: 0;
 }
-.frame-parent35 {
+.frame-parent42 {
   position: absolute;
   top: 0;
   left: 3.3px;
@@ -967,42 +977,115 @@
   width: 132.8px;
   position: relative;
   height: 19.1px;
-}
-.vector-group {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  text-align: center;
   font-size: var(--font-size-10xs-9);
+  color: var(--color-white);
   font-family: var(--font-inter);
 }
-.oua-nossa-playlist-no-spotify-group {
+.frame-parent41 {
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-sm);
+  color: var(--color);
+  font-family: var(--font-wildy-sans);
+}
+.frame-parent41,
+.spotfy-mobile1,
+.spotfy1 {
+  display: flex;
+  align-items: center;
+}
+.spotfy-mobile1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.spotfy1 {
   align-self: stretch;
   background: linear-gradient(85.38deg, #2a4f3d, #02676a);
-  display: flex;
   flex-direction: row;
-  align-items: center;
   justify-content: center;
-  padding: var(--padding-xs) 0;
-  gap: var(--gap-lg-9);
-  text-align: right;
+  padding: var(--padding-xs) var(--padding-base);
   font-size: var(--font-size-smi-3);
   color: var(--color-white);
   font-family: var(--font-petrona);
 }
-.sobre-o-casamento1 {
+.barra-de-sirinham1 {
+  width: 372.5px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.12em;
+  line-height: 86.09%;
+  font-family: var(--font-wildy-sans);
+  display: inline-block;
+}
+.quinta-da-barra-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: center;
+  font-size: var(--font-size-39xl-9);
+  font-family: var(--font-photoshoot);
+}
+.rua-projetada-083 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.12em;
+  color: inherit;
+  text-decoration: none;
+}
+.rua-projetada-08-lot-recreio-wrapper1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent43 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-sm-9);
+  font-size: var(--font-size-5xl);
+  color: var(--color);
+}
+.local-do-evento-group {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base);
+  gap: var(--gap-22xl-2);
+}
+.local-do-evento-group,
+.rectangle-group,
+.sobre-o-casamento2 {
+  flex-direction: column;
+  align-items: center;
+}
+.rectangle-group {
+  width: 520px;
+  background-color: var(--color-whitesmoke-100);
+  display: none;
+  justify-content: center;
+  gap: 7.6px;
+  max-width: 520px;
+  text-align: left;
+  color: var(--d9d9d9);
+}
+.sobre-o-casamento2 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);
   overflow: hidden;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: flex-start;
-  text-align: left;
+  text-align: center;
   font-size: var(--font-size-16xl-9);
-  color: var(--d9d9d9);
+  color: var(--color);
   font-family: var(--font-wildy-sans);
 }
 @media screen and (max-width: 1200px) {
@@ -1023,6 +1106,12 @@
   .a-ideia-do-container {
     font-size: var(--font-size-5xl);
   }
+  .frame-parent9 {
+    display: none;
+  }
+  .frame-wrapper2 {
+    display: flex;
+  }
   .roteiro-do-evento-parent {
     display: none;
   }
@@ -1033,7 +1122,7 @@
     align-self: stretch;
     width: auto;
   }
-  .frame-parent27,
+  .frame-parent36,
   .orientaes-gerais-parent {
     padding-left: var(--padding-base);
     padding-right: var(--padding-base);
@@ -1045,35 +1134,37 @@
   .orientaes-gerais-group {
     display: flex;
   }
+  .presena-desk1,
   .sobre-o-casamento-inner {
     display: none;
+  }
+  .group-parent1,
+  .presena-mobile1 {
+    display: flex;
+  }
+  .cardhome-parent {
+    flex-direction: column;
+  }
+  .card-desk1 {
+    display: none;
+    align-self: stretch;
+    width: auto;
+  }
+  .frame-13213asda17343 {
+    flex-direction: column;
+  }
+  .card-mobile2 {
+    display: flex;
+    align-self: stretch;
+    width: auto;
+  }
+  .spotfy-mobile1 {
+    display: flex;
   }
   .rua-projetada-083 {
     font-size: var(--font-size-lg);
   }
   .rectangle-group {
     display: flex;
-  }
-  .sobre-o-casamento-child {
-    display: none;
-  }
-  .sobre-o-casamento-inner1 {
-    display: flex;
-  }
-  .frame-parent33 {
-    flex-direction: column;
-  }
-  .sobre-o-casamento-inner2 {
-    display: none;
-    align-self: stretch;
-    width: auto;
-  }
-  .frame-parent34 {
-    flex-direction: column;
-  }
-  .sobre-o-casamento-inner3 {
-    display: flex;
-    align-self: stretch;
-    width: auto;
   }
 }
