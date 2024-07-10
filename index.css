@@ -68,12 +68,12 @@
   font-size: 178.4px;
   font-family: var(--font-madelyn-fill-trial);
 }
-.vector-icon {
+.logo-icon {
   width: 206.1px;
   position: relative;
   height: 189.6px;
 }
-.vector-wrapper {
+.logo {
   width: 206.1px;
   display: flex;
   flex-direction: column;
@@ -82,7 +82,7 @@
   padding: 0 0 var(--padding-20xl);
   box-sizing: border-box;
 }
-.vector-icon1 {
+.vector-icon {
   width: 307.8px;
   position: relative;
   height: 78px;
@@ -109,14 +109,14 @@
   gap: var(--gap-3xs);
   margin-top: -39.1px;
 }
-.frame-group {
+.logo-parent {
   align-self: stretch;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
-.vector-icon2 {
+.vector-icon1 {
   width: 646.5px;
   position: relative;
   height: 202.1px;
@@ -142,17 +142,17 @@
   background-repeat: no-repeat;
   background-position: top;
 }
-.vector-icon5 {
+.vector-icon3 {
   width: 396px;
   position: relative;
   height: 123.8px;
 }
-.frame-container,
+.frame-group,
 .mobilehero {
   align-items: center;
   justify-content: center;
 }
-.frame-container {
+.frame-group {
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -223,13 +223,13 @@
   color: var(--color-white);
   font-family: var(--font-wildy-sans);
 }
-.frame-parent1 {
+.frame-container {
   align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: var(--gap-smi);
 }
-.frame-parent1,
+.frame-container,
 .group-parent,
 .presena-mobile {
   align-items: center;
@@ -292,7 +292,7 @@
   color: var(--color-white);
   font-family: var(--font-caveat-brush);
 }
-.frame-parent2,
+.frame-div,
 .group-group {
   display: flex;
   flex-direction: column;
@@ -436,7 +436,7 @@
   height: 42.2px;
   display: none;
 }
-.vector-icon6 {
+.vector-icon4 {
   width: 25.3px;
   position: relative;
   height: 25.3px;
@@ -518,7 +518,7 @@
   overflow: hidden;
   flex-shrink: 0;
 }
-.frame-parent4 {
+.frame-parent2 {
   position: absolute;
   top: 0;
   left: 3.3px;
@@ -593,12 +593,12 @@
   color: var(--color-white);
   font-family: var(--font-inter);
 }
-.frame-parent3,
+.frame-parent1,
 .spotfy-mobile {
   flex-direction: column;
   gap: var(--gap-xs);
 }
-.frame-parent3 {
+.frame-parent1 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -648,7 +648,7 @@
     align-self: stretch;
     width: auto;
   }
-  .frame-container {
+  .frame-group {
     width: 399px;
     height: 500px;
     gap: 24.76px;
@@ -657,9 +657,14 @@
     width: 100%;
   }
   .group-parent,
-  .mobilehero,
+  .mobilehero {
+    display: flex;
+  }
   .presena-mobile {
     display: flex;
+    padding-left: var(--padding-3xl);
+    padding-right: var(--padding-3xl);
+    box-sizing: border-box;
   }
   .presena-desk {
     display: none;
