@@ -404,18 +404,12 @@
   color: var(--d9d9d9);
   font-family: var(--font-handlee);
 }
-.barra-de-sirinham1,
 .quinta-da-barra1 {
   width: 432.8px;
   position: relative;
   letter-spacing: 0.12em;
   line-height: 86.09%;
   display: inline-block;
-}
-.barra-de-sirinham1 {
-  width: 372.5px;
-  font-size: var(--font-size-5xl);
-  font-family: var(--font-wildy-sans);
 }
 .quinta-da-barra-group {
   display: flex;
@@ -425,7 +419,7 @@
   gap: 16px;
   text-align: center;
   font-size: var(--font-size-39xl-9);
-  font-family: var(--font-photoshoot);
+  font-family: var(--font-caveat);
 }
 .rua-projetada-081 {
   align-self: stretch;
@@ -451,8 +445,9 @@
   flex-direction: row;
   justify-content: center;
   gap: var(--gap-sm-9);
-  font-size: var(--font-size-5xl);
+  font-size: var(--font-size-smi);
   color: var(--color);
+  font-family: var(--font-petrona);
 }
 .local-do-evento-group {
   flex-direction: column;
@@ -472,8 +467,9 @@
   gap: 7.6px;
   max-width: 520px;
   text-align: left;
+  font-size: 26px;
   color: var(--d9d9d9);
-  font-family: var(--font-wildy-sans);
+  font-family: var(--font-handlee);
 }
 .frame-parent23,
 .group-div {
@@ -512,6 +508,7 @@
   box-sizing: border-box;
   gap: var(--gap-22xl-2);
   text-align: left;
+  font-size: var(--font-size-16xl-9);
   color: var(--d9d9d9);
 }
 .orientaes-gerais {
@@ -598,7 +595,6 @@
   align-items: center;
   padding: var(--padding-13xl) var(--padding-118xl);
   text-align: left;
-  font-size: var(--font-size-36xl);
 }
 .no-ser-permitido-container1,
 .orientaes-gerais1 {
@@ -661,7 +657,6 @@
   padding: var(--padding-21xl) var(--padding-base);
   box-sizing: border-box;
   max-width: 520px;
-  font-size: var(--font-size-36xl);
 }
 .group-icon4 {
   width: 135.8px;
@@ -1117,7 +1112,7 @@
   flex-direction: column;
   justify-content: flex-start;
   text-align: center;
-  font-size: var(--font-size-16xl-9);
+  font-size: var(--font-size-36xl);
   color: var(--color);
   font-family: var(--font-caveat);
 }

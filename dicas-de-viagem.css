@@ -581,7 +581,7 @@
   border-radius: 25.68px;
   max-width: 100%;
   overflow: hidden;
-  height: 417px;
+  height: 212px;
   flex-shrink: 0;
   object-fit: cover;
 }
@@ -697,17 +697,18 @@
   font-family: var(--font-handlee);
 }
 .instituto-ricardo-brennand-group {
+  flex: 1;
   gap: 9px;
 }
 .frame-parent44,
 .mobile1 {
+  width: 520px;
   align-items: center;
   justify-content: flex-start;
   box-sizing: border-box;
 }
 .mobile1 {
-  align-self: stretch;
-  height: 841px;
+  height: 606px;
   overflow-x: auto;
   flex-shrink: 0;
   display: flex;
@@ -718,7 +719,6 @@
   color: var(--color);
 }
 .frame-parent44 {
-  width: 520px;
   background-color: var(--color-whitesmoke-200);
   display: none;
   flex-direction: column;
@@ -1252,21 +1252,23 @@
   .hospedagem-parent {
     display: none;
   }
-  .dicas-de-viagem-inner {
-    display: flex;
-  }
   .dicas-de-viagem-inner,
-  .frame-parent38,
-  .frame-parent44 {
+  .frame-parent38 {
     padding-left: var(--padding-base);
     padding-right: var(--padding-base);
     box-sizing: border-box;
+  }
+  .dicas-de-viagem-inner {
+    display: flex;
   }
   .frame-parent38 {
     display: none;
   }
   .frame-parent44 {
     display: flex;
+    padding-left: var(--padding-lg);
+    padding-right: var(--padding-lg);
+    box-sizing: border-box;
   }
   .presena-desk2 {
     display: none;
