@@ -124,7 +124,7 @@
   align-items: center;
   justify-content: center;
   padding: var(--padding-21xl) 0;
-  font-size: var(--font-size-11xl-7);
+  font-size: 28px;
   color: var(--color-white);
 }
 .o-preo-mdio,
@@ -464,7 +464,7 @@
   padding: var(--padding-9xs-4);
   font-size: var(--font-size-base-5);
   color: var(--color-white);
-  font-family: var(--font-wildy-sans);
+  font-family: var(--font-handlee);
 }
 .roteiro-1-parent {
   width: 425px;
@@ -495,6 +495,29 @@
 .ao-lado-do {
   text-transform: lowercase;
 }
+.conhecer-wrapper1 {
+  width: 163.9px;
+  box-shadow: 0 1.3px 1.34px rgba(0, 0, 0, 0.25);
+  border-radius: 4.02px;
+  background-color: var(--color);
+  height: 31.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs-4);
+  box-sizing: border-box;
+  font-size: var(--font-size-base-5);
+  color: var(--color-white);
+}
+.desktop,
+.frame-parent38,
+.roteiro-4-parent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
 .roteiro-4-parent {
   width: 425px;
   box-shadow: 0 3.3px 3.27px rgba(0, 0, 0, 0.25);
@@ -504,35 +527,204 @@
   flex-shrink: 0;
   flex-direction: column;
   padding: var(--padding-3xs-8) var(--padding-3xs-8) var(--padding-lgi-6);
-  box-sizing: border-box;
   gap: var(--gap-20xl-2);
   max-width: 424.99px;
   font-size: var(--font-size-3xl);
   font-family: var(--font-handlee);
 }
 .desktop,
-.frame-parent38,
-.roteiro-4-parent {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
+.frame-parent38 {
+  width: 1440px;
 }
 .desktop {
-  width: 1440px;
   overflow-x: auto;
   flex-direction: row;
   padding: 0 13.1px;
-  box-sizing: border-box;
   gap: 25.3px;
   font-size: var(--font-size-28xl-4);
   color: var(--color);
 }
 .frame-parent38 {
-  align-self: stretch;
   background-color: var(--color-whitesmoke-200);
   flex-direction: column;
   padding: var(--padding-21xl) 0;
   gap: var(--gap-22xl-2);
+  color: var(--d9d9d9);
+}
+.aos-que-forem1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-transform: lowercase;
+  font-family: var(--font-handlee);
+  color: var(--color);
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.dica-de-roteiro-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base);
+  gap: var(--gap-22xl);
+}
+.a-vila-de1,
+.roteiro-1-icon1 {
+  align-self: stretch;
+  position: relative;
+}
+.roteiro-1-icon1 {
+  border-radius: 25.68px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 417px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.a-vila-de1 {
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-transform: lowercase;
+  font-family: var(--font-handlee);
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.vila-porto-de-galinhas-group {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.conhecer-wrapper3,
+.roteiro-1-group {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.conhecer-wrapper3 {
+  width: 200.6px;
+  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
+  border-radius: 4.92px;
+  background-color: var(--color);
+  height: 39px;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-8xs-1);
+  font-size: var(--font-size-xl-2);
+  color: var(--color-white);
+  font-family: var(--font-handlee);
+}
+.roteiro-1-group {
+  align-self: stretch;
+  width: 420px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-white);
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
+  gap: var(--gap-29xl);
+  max-width: 420px;
+}
+.cs-do-serto1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  font-family: var(--font-caveat);
+  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
+    0-0.2px 0#02676a;
+}
+.cs-do-serto-group {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.conhecer-wrapper6 {
+  width: 200.6px;
+  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
+  border-radius: 4.92px;
+  background-color: var(--color);
+  height: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs-1);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl-2);
+  color: var(--color-white);
+}
+.roteiro-4-group {
+  width: 420px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-white);
+  flex-shrink: 0;
+  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
+  box-sizing: border-box;
+  gap: var(--gap-29xl);
+  max-width: 420px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-handlee);
+}
+.instituto-ricardo-brennand-group,
+.para-quem-gosta-de-histria-v-parent,
+.roteiro-4-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.para-quem-gosta-de-histria-v-parent {
+  gap: var(--gap-xs);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-handlee);
+}
+.instituto-ricardo-brennand-group {
+  gap: 9px;
+}
+.frame-parent44,
+.mobile1 {
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.mobile1 {
+  align-self: stretch;
+  height: 841px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  gap: 31px;
+  font-size: var(--font-size-13xl);
+  color: var(--color);
+}
+.frame-parent44 {
+  width: 520px;
+  background-color: var(--color-whitesmoke-200);
+  display: none;
+  flex-direction: column;
+  padding: var(--padding-21xl) 0;
+  gap: var(--gap-22xl-2);
+  max-width: 520px;
   color: var(--d9d9d9);
 }
 .group-icon6 {
@@ -582,7 +774,7 @@
   color: var(--color-white);
   font-family: var(--font-caveat-brush);
 }
-.frame-parent44 {
+.frame-parent50 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -645,13 +837,13 @@
   color: var(--color-white);
   font-family: var(--font-caveat-brush);
 }
-.frame-parent45 {
+.frame-parent51 {
   align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: var(--gap-smi);
 }
-.frame-parent45,
+.frame-parent51,
 .group-parent3,
 .presena-mobile2 {
   align-items: center;
@@ -879,7 +1071,7 @@
   overflow: hidden;
   flex-shrink: 0;
 }
-.frame-parent47 {
+.frame-parent53 {
   position: absolute;
   top: 0;
   left: 3.3px;
@@ -954,25 +1146,28 @@
   color: var(--color-white);
   font-family: var(--font-inter);
 }
-.frame-parent46 {
+.frame-parent52,
+.spotfy-mobile2 {
   flex-direction: column;
-  justify-content: center;
   gap: var(--gap-xs);
+}
+.frame-parent52 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: var(--font-size-sm);
   color: var(--color);
   font-family: var(--font-caveat-brush);
 }
-.frame-parent46,
+.spotfy-mobile2 {
+  flex: 1;
+  justify-content: flex-start;
+}
+.dicas-de-viagem4,
 .spotfy-mobile2,
 .spotfy21 {
   display: flex;
   align-items: center;
-}
-.spotfy-mobile2 {
-  flex: 1;
-  flex-direction: column;
-  justify-content: flex-start;
-  gap: var(--gap-xs);
 }
 .spotfy21 {
   align-self: stretch;
@@ -984,195 +1179,13 @@
   color: var(--color-white);
   font-family: var(--font-petrona);
 }
-.aos-que-forem1 {
-  align-self: stretch;
-  position: relative;
-  font-size: 28px;
-  letter-spacing: 0.12em;
-  line-height: 113.81%;
-  text-transform: lowercase;
-  color: var(--color);
-  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
-    0-0.2px 0#02676a;
-}
-.dica-de-roteiro-group {
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  padding: 0 var(--padding-base);
-  gap: var(--gap-22xl);
-}
-.a-vila-de1,
-.roteiro-1-icon1 {
-  align-self: stretch;
-  position: relative;
-}
-.roteiro-1-icon1 {
-  border-radius: 25.68px;
-  max-width: 100%;
-  overflow: hidden;
-  height: 417px;
-  flex-shrink: 0;
-  object-fit: cover;
-}
-.a-vila-de1 {
-  font-size: var(--font-size-5xl);
-  letter-spacing: 0.12em;
-  line-height: 113.81%;
-  text-transform: lowercase;
-  font-family: var(--font-wildy-sans);
-  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
-    0-0.2px 0#02676a;
-}
-.vila-porto-de-galinhas-group {
-  align-self: stretch;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  gap: var(--gap-29xl);
-}
-.conhecer-wrapper3,
-.roteiro-1-group {
-  display: flex;
-  align-items: center;
-  box-sizing: border-box;
-}
-.conhecer-wrapper3 {
-  width: 200.6px;
-  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
-  border-radius: 4.92px;
-  background-color: var(--color);
-  height: 39px;
-  flex-direction: row;
-  justify-content: center;
-  padding: var(--padding-8xs-1);
-  font-size: var(--font-size-xl-2);
-  color: var(--color-white);
-  font-family: var(--font-wildy-sans);
-}
-.roteiro-1-group {
-  align-self: stretch;
-  width: 420px;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: var(--br-15xl);
-  background-color: var(--color-white);
-  flex-shrink: 0;
-  flex-direction: column;
-  justify-content: flex-start;
-  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
-  gap: var(--gap-29xl);
-  max-width: 420px;
-}
-.cs-do-serto1 {
-  align-self: stretch;
-  position: relative;
-  font-size: var(--font-size-13xl);
-  letter-spacing: 0.12em;
-  line-height: 113.81%;
-  font-family: var(--font-photoshoot);
-  text-shadow: 0.2px 0 0#02676a, 0 0.2px 0#02676a, -0.2px 0 0#02676a,
-    0-0.2px 0#02676a;
-}
-.cs-do-serto-group {
-  align-self: stretch;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 30px;
-}
-.conhecer-wrapper6 {
-  width: 200.6px;
-  box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
-  border-radius: 4.92px;
-  background-color: var(--color);
-  height: 39px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  padding: var(--padding-8xs-1);
-  box-sizing: border-box;
-  font-size: var(--font-size-xl-2);
-  color: var(--color-white);
-}
-.para-quem-gosta-de-histria-v-parent,
-.roteiro-4-group {
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  font-size: var(--font-size-5xl);
-  font-family: var(--font-wildy-sans);
-}
-.roteiro-4-group {
-  width: 420px;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: var(--br-15xl);
-  background-color: var(--color-white);
-  flex-shrink: 0;
-  padding: var(--padding-xs) var(--padding-xs) var(--padding-5xl);
-  box-sizing: border-box;
-  gap: var(--gap-29xl);
-  max-width: 420px;
-}
-.para-quem-gosta-de-histria-v-parent {
-  gap: var(--gap-xs);
-}
-.instituto-ricardo-brennand-group {
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  gap: 9px;
-}
-.dicas-de-viagem4,
-.frame-parent48,
-.instituto-ricardo-brennand-group,
-.mobile1 {
-  align-items: center;
-  justify-content: flex-start;
-}
-.mobile1 {
-  align-self: stretch;
-  height: 841px;
-  overflow-x: auto;
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: row;
-  padding: 0 var(--padding-base);
-  box-sizing: border-box;
-  gap: 31px;
-  font-size: var(--font-size-13xl);
-  color: var(--color);
-  font-family: var(--font-photoshoot);
-}
-.dicas-de-viagem4,
-.frame-parent48 {
-  flex-direction: column;
-}
-.frame-parent48 {
-  width: 520px;
-  background-color: var(--color-whitesmoke-200);
-  display: none;
-  padding: var(--padding-21xl) 0;
-  box-sizing: border-box;
-  gap: var(--gap-22xl-2);
-  max-width: 520px;
-  color: var(--d9d9d9);
-  font-family: var(--font-wildy-sans);
-}
 .dicas-de-viagem4 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);
   overflow: hidden;
-  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   text-align: center;
   font-size: var(--font-size-44xl);
   color: var(--color);
@@ -1239,17 +1252,21 @@
   .hospedagem-parent {
     display: none;
   }
+  .dicas-de-viagem-inner {
+    display: flex;
+  }
   .dicas-de-viagem-inner,
-  .frame-parent38 {
+  .frame-parent38,
+  .frame-parent44 {
     padding-left: var(--padding-base);
     padding-right: var(--padding-base);
     box-sizing: border-box;
   }
-  .dicas-de-viagem-inner {
-    display: flex;
-  }
   .frame-parent38 {
     display: none;
+  }
+  .frame-parent44 {
+    display: flex;
   }
   .presena-desk2 {
     display: none;
@@ -1276,11 +1293,5 @@
   }
   .spotfy-mobile2 {
     display: flex;
-  }
-  .frame-parent48 {
-    display: flex;
-    padding-left: var(--padding-base);
-    padding-right: var(--padding-base);
-    box-sizing: border-box;
   }
 }

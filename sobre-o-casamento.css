@@ -134,7 +134,7 @@
   align-items: center;
   justify-content: center;
   padding: var(--padding-21xl) 0;
-  font-size: var(--font-size-11xl-7);
+  font-size: 30.7px;
   color: var(--color-white);
 }
 .roteiro-do-evento {
@@ -309,14 +309,180 @@
   gap: var(--gap-22xl-2);
   font-size: var(--font-size-19xl-2);
 }
+.rectangle-icon {
+  width: 408.4px;
+  position: relative;
+  border-radius: 18.91px;
+  height: 260.3px;
+  object-fit: cover;
+}
+.local-do-evento {
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 113.81%;
+  text-shadow: 0.2px 0 0#2a4f3d, 0 0.2px 0#2a4f3d, -0.2px 0 0#2a4f3d,
+    0-0.2px 0#2a4f3d;
+}
+.barra-de-sirinham,
+.quinta-da-barra {
+  width: 518px;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 86.09%;
+  display: inline-block;
+}
+.barra-de-sirinham {
+  width: 372.5px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-handlee);
+}
+.quinta-da-barra-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-39xl-9);
+  font-family: var(--font-caveat);
+}
+.vector-stroke-icon {
+  width: 22.2px;
+  position: relative;
+  height: 31.1px;
+}
+.vector-stroke-wrapper {
+  height: 55px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rua-projetada-08 {
+  width: 631px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.12em;
+  color: inherit;
+  display: inline-block;
+}
 .frame-parent21,
+.rua-projetada-08-lot-recreio-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent21 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-sm-9);
+  font-size: var(--font-size-3xl);
+  color: var(--color);
+}
+.local-do-evento-parent,
+.rectangle-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-22xl-2);
+}
+.rectangle-parent {
+  flex-direction: row;
+  justify-content: center;
+}
+.sobre-o-casamento-inner {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke-100);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-13xl) 0;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--d9d9d9);
+  font-family: var(--font-handlee);
+}
+.barra-de-sirinham1,
+.quinta-da-barra1 {
+  width: 432.8px;
+  position: relative;
+  letter-spacing: 0.12em;
+  line-height: 86.09%;
+  display: inline-block;
+}
+.barra-de-sirinham1 {
+  width: 372.5px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-wildy-sans);
+}
+.quinta-da-barra-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: center;
+  font-size: var(--font-size-39xl-9);
+  font-family: var(--font-photoshoot);
+}
+.rua-projetada-081 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.12em;
+  color: inherit;
+  text-decoration: none;
+}
+.rua-projetada-08-lot-recreio-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent22,
+.local-do-evento-group {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.frame-parent22 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-sm-9);
+  font-size: var(--font-size-5xl);
+  color: var(--color);
+}
+.local-do-evento-group {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base);
+  gap: var(--gap-22xl-2);
+}
+.rectangle-group {
+  width: 520px;
+  background-color: var(--color-whitesmoke-100);
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+  gap: 7.6px;
+  max-width: 520px;
+  text-align: left;
+  color: var(--d9d9d9);
+  font-family: var(--font-wildy-sans);
+}
+.frame-parent23,
 .group-div {
   position: absolute;
   top: 0;
   left: 0;
   width: 1334.8px;
 }
-.frame-parent21 {
+.frame-parent23 {
   overflow-x: auto;
   display: flex;
   flex-direction: row;
@@ -334,7 +500,6 @@
   text-align: center;
   font-size: var(--font-size-19xl-2);
   color: var(--color);
-  font-family: var(--font-photoshoot);
 }
 .mobile {
   width: 1440px;
@@ -348,7 +513,6 @@
   gap: var(--gap-22xl-2);
   text-align: left;
   color: var(--d9d9d9);
-  font-family: var(--font-wildy-sans);
 }
 .orientaes-gerais {
   align-self: stretch;
@@ -416,14 +580,14 @@
   justify-content: flex-start;
   gap: var(--gap-3xl-9);
 }
-.frame-parent30,
+.frame-parent32,
 .orientaes-gerais-parent {
   align-self: stretch;
   display: flex;
   justify-content: flex-start;
   gap: var(--gap-22xl-2);
 }
-.frame-parent30 {
+.frame-parent32 {
   flex-direction: row;
   align-items: flex-start;
   padding: 0 240px;
@@ -479,14 +643,14 @@
 .oque-ser-disponibilizado-group {
   align-items: flex-start;
 }
-.frame-parent31,
+.frame-parent33,
 .orientaes-gerais-group {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
   gap: var(--gap-22xl-2);
 }
-.frame-parent31 {
+.frame-parent33 {
   align-self: stretch;
   display: flex;
   font-size: var(--font-size-5xl-4);
@@ -498,101 +662,6 @@
   box-sizing: border-box;
   max-width: 520px;
   font-size: var(--font-size-36xl);
-}
-.rectangle-icon {
-  width: 408.4px;
-  position: relative;
-  border-radius: 18.91px;
-  height: 260.3px;
-  object-fit: cover;
-}
-.local-do-evento {
-  position: relative;
-  letter-spacing: 0.12em;
-  line-height: 113.81%;
-  text-shadow: 0.2px 0 0#2a4f3d, 0 0.2px 0#2a4f3d, -0.2px 0 0#2a4f3d,
-    0-0.2px 0#2a4f3d;
-}
-.barra-de-sirinham,
-.quinta-da-barra {
-  width: 518px;
-  position: relative;
-  letter-spacing: 0.12em;
-  line-height: 86.09%;
-  display: inline-block;
-}
-.barra-de-sirinham {
-  width: 372.5px;
-  font-size: var(--font-size-5xl);
-  font-family: var(--font-handlee);
-}
-.quinta-da-barra-parent {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-xs);
-  font-size: var(--font-size-39xl-9);
-  font-family: var(--font-caveat);
-}
-.vector-stroke-icon {
-  width: 22.2px;
-  position: relative;
-  height: 31.1px;
-}
-.vector-stroke-wrapper {
-  height: 55px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-start;
-}
-.rua-projetada-08 {
-  width: 631px;
-  position: relative;
-  text-decoration: underline;
-  letter-spacing: 0.12em;
-  color: inherit;
-  display: inline-block;
-}
-.frame-parent32,
-.rua-projetada-08-lot-recreio-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-.frame-parent32 {
-  flex-direction: row;
-  align-items: center;
-  gap: var(--gap-sm-9);
-  font-size: var(--font-size-3xl);
-  color: var(--color);
-}
-.local-do-evento-parent,
-.rectangle-parent {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-22xl-2);
-}
-.rectangle-parent {
-  flex-direction: row;
-  justify-content: center;
-}
-.sobre-o-casamento-inner {
-  align-self: stretch;
-  background-color: var(--color-whitesmoke-100);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: var(--padding-13xl) 0;
-  text-align: left;
-  font-size: var(--font-size-6xl);
-  color: var(--d9d9d9);
-  font-family: var(--font-handlee);
 }
 .group-icon4 {
   width: 135.8px;
@@ -637,7 +706,7 @@
   font-size: var(--font-size-xl-2);
   color: var(--color-white);
 }
-.frame-parent33 {
+.frame-parent34 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -690,14 +759,6 @@
   justify-content: flex-start;
   gap: var(--gap-6xs-1);
 }
-.confirmar-presena3 {
-  position: relative;
-  letter-spacing: 0.12em;
-  line-height: 113.81%;
-  color: inherit;
-  text-decoration: none;
-  text-shadow: 0.2px 0 0#fff, 0 0.2px 0#fff, -0.2px 0 0#fff, 0-0.2px 0#fff;
-}
 .confirmar-presena-wrapper1 {
   width: 200.6px;
   box-shadow: 0 1.6px 1.64px rgba(0, 0, 0, 0.25);
@@ -713,14 +774,15 @@
   cursor: pointer;
   font-size: var(--font-size-xl-2);
   color: var(--color-white);
+  font-family: var(--font-caveat-brush);
 }
-.frame-parent34 {
+.frame-parent35 {
   align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: var(--gap-smi);
 }
-.frame-parent34,
+.frame-parent35,
 .group-parent1,
 .presena-mobile1 {
   align-items: center;
@@ -939,7 +1001,7 @@
   overflow: hidden;
   flex-shrink: 0;
 }
-.frame-parent36 {
+.frame-parent37 {
   position: absolute;
   top: 0;
   left: 3.3px;
@@ -1014,25 +1076,28 @@
   color: var(--color-white);
   font-family: var(--font-inter);
 }
-.frame-parent35 {
+.frame-parent36,
+.spotfy-mobile1 {
   flex-direction: column;
-  justify-content: center;
   gap: var(--gap-xs);
+}
+.frame-parent36 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: var(--font-size-sm);
   color: var(--color);
   font-family: var(--font-caveat-brush);
 }
-.frame-parent35,
+.spotfy-mobile1 {
+  flex: 1;
+  justify-content: flex-start;
+}
+.sobre-o-casamento2,
 .spotfy-mobile1,
 .spotfy2 {
   display: flex;
   align-items: center;
-}
-.spotfy-mobile1 {
-  flex: 1;
-  flex-direction: column;
-  justify-content: flex-start;
-  gap: var(--gap-xs);
 }
 .spotfy2 {
   align-self: stretch;
@@ -1044,83 +1109,12 @@
   color: var(--color-white);
   font-family: var(--font-petrona);
 }
-.barra-de-sirinham1,
-.quinta-da-barra1 {
-  width: 432.8px;
-  position: relative;
-  letter-spacing: 0.12em;
-  line-height: 86.09%;
-  display: inline-block;
-}
-.barra-de-sirinham1 {
-  width: 372.5px;
-  font-size: var(--font-size-5xl);
-  font-family: var(--font-wildy-sans);
-}
-.quinta-da-barra-group {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 16px;
-  text-align: center;
-  font-size: var(--font-size-39xl-9);
-  font-family: var(--font-photoshoot);
-}
-.rua-projetada-081 {
-  align-self: stretch;
-  position: relative;
-  letter-spacing: 0.12em;
-  color: inherit;
-  text-decoration: none;
-}
-.rua-projetada-08-lot-recreio-container {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-}
-.frame-parent37 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  gap: var(--gap-sm-9);
-  font-size: var(--font-size-5xl);
-  color: var(--color);
-}
-.local-do-evento-group {
-  align-self: stretch;
-  display: flex;
-  justify-content: flex-start;
-  padding: 0 var(--padding-base);
-  gap: var(--gap-22xl-2);
-}
-.local-do-evento-group,
-.rectangle-group,
-.sobre-o-casamento2 {
-  flex-direction: column;
-  align-items: center;
-}
-.rectangle-group {
-  width: 520px;
-  background-color: var(--color-whitesmoke-100);
-  display: none;
-  justify-content: center;
-  gap: 7.6px;
-  max-width: 520px;
-  text-align: left;
-  color: var(--d9d9d9);
-  font-family: var(--font-wildy-sans);
-}
 .sobre-o-casamento2 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);
   overflow: hidden;
-  display: flex;
+  flex-direction: column;
   justify-content: flex-start;
   text-align: center;
   font-size: var(--font-size-16xl-9);
@@ -1184,14 +1178,21 @@
     padding-right: var(--padding-3xl);
     box-sizing: border-box;
   }
-  .mobile {
+  .sobre-o-casamento-inner {
+    display: none;
+  }
+  .rua-projetada-081 {
+    font-size: var(--font-size-lg);
+  }
+  .mobile,
+  .rectangle-group {
     display: flex;
   }
   .no-ser-permitido-bebidas-alc-parent {
     align-self: stretch;
     width: auto;
   }
-  .frame-parent30,
+  .frame-parent32,
   .orientaes-gerais-parent {
     padding-left: var(--padding-base);
     padding-right: var(--padding-base);
@@ -1202,14 +1203,14 @@
   }
   .orientaes-gerais-group {
     display: flex;
+    padding-left: var(--padding-3xl);
+    padding-right: var(--padding-3xl);
+    box-sizing: border-box;
   }
-  .presena-desk1,
-  .sobre-o-casamento-inner {
+  .presena-desk1 {
     display: none;
   }
-  .group-parent1 {
-    display: flex;
-  }
+  .group-parent1,
   .presena-mobile1 {
     display: flex;
     padding-left: var(--padding-3xl);
@@ -1233,12 +1234,6 @@
     width: auto;
   }
   .spotfy-mobile1 {
-    display: flex;
-  }
-  .rua-projetada-081 {
-    font-size: var(--font-size-lg);
-  }
-  .rectangle-group {
     display: flex;
   }
 }
